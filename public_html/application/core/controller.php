@@ -9,7 +9,7 @@ class Controller
 	{
 	}
 	
-	private function onPageNotFoundException($e)
+	public function onPageNotFoundException($e)
 	{
 		header('HTTP/1.1 404 Not Found');
 		header("Status: 404 Not Found");
@@ -17,13 +17,13 @@ class Controller
 		header('Location:'.$host);
 	}
 
-	private function onUserNotAuthorizedException($e)
+	public function onUserNotAuthorizedException($e)
 	{
-		$host = 'http://'.$_SERVER['HTTP_HOST'].'/';
+		$host = 'http://'.$_SERVER['HTTP_HOST'].'/auth';
 		header('Location:'.$host);
 	}
 
-	private function redirectMainPage()
+	public function redirectMainPage()
 	{
 		$host = 'http://'.$_SERVER['HTTP_HOST'].'/';
 		header('Location:'.$host);

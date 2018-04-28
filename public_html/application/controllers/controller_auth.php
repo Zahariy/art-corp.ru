@@ -8,8 +8,8 @@ class Controller_Auth extends Controller
 	
 	function action_index()
 	{
-		if(!User::isAuthorized())
-			throw new UserNotAuthorizedException("пользователь не авторизирован");
+		if(User::isAuthorized())
+			$this->redirectMainPage();
 		$this->view->generate('login.php', 'template_view.php');
 	}
 	

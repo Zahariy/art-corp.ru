@@ -45,6 +45,12 @@ class Route
 			$controller = new Controller();
 			$controller->onPageNotFoundException($e);
 		}
+		catch(UserNotAuthorizedException $e)
+		{
+			$controller = new Controller();
+			$controller->onUserNotAuthorizedException($e);
+		}
+
 
 		$action = $action_name;
 		
