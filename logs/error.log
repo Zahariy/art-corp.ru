@@ -18394,3 +18394,956 @@
 127.0.0.1 - - [28/Apr/2018:11:59:22 +0300] "GET /404 HTTP/1.1" 200 226
 127.0.0.1 - - [28/Apr/2018:11:59:22 +0300] "GET /favicon.ico HTTP/1.1" 302 3
 127.0.0.1 - - [28/Apr/2018:11:59:22 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [28/Apr/2018:20:58:24 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [28/Apr/2018:20:58:24 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [28/Apr/2018:20:59:24 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [28/Apr/2018:20:59:24 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [28/Apr/2018:21:00:24 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [28/Apr/2018:21:00:24 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [28/Apr/2018:21:00:39 +0300] "GET /auth/login HTTP/1.1" 200 465
+127.0.0.1 - - [28/Apr/2018:21:00:40 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [28/Apr/2018:21:00:40 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [28/Apr/2018:21:01:24 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [28/Apr/2018:21:01:24 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [28/Apr/2018:21:02:24 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [28/Apr/2018:21:02:24 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [28/Apr/2018:21:03:24 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [28/Apr/2018:21:03:24 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [28/Apr/2018:21:04:24 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [28/Apr/2018:21:04:24 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [28/Apr/2018:21:05:24 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [28/Apr/2018:21:05:24 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [28/Apr/2018:21:06:24 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [28/Apr/2018:21:06:24 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [28/Apr/2018:21:06:24 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [28/Apr/2018:21:06:24 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [28/Apr/2018:21:07:24 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [28/Apr/2018:21:07:24 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [28/Apr/2018:21:08:24 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [28/Apr/2018:21:08:25 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [28/Apr/2018:21:09:24 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [28/Apr/2018:21:09:24 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [28/Apr/2018:21:10:24 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [28/Apr/2018:21:10:24 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [28/Apr/2018:21:11:24 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [28/Apr/2018:21:11:24 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [28/Apr/2018:21:12:24 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [28/Apr/2018:21:12:24 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [28/Apr/2018:21:13:24 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [28/Apr/2018:21:13:24 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [28/Apr/2018:21:14:24 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [28/Apr/2018:21:14:24 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [28/Apr/2018:21:15:24 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [28/Apr/2018:21:15:24 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [28/Apr/2018:21:16:24 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [28/Apr/2018:21:16:24 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [28/Apr/2018:21:17:24 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [28/Apr/2018:21:17:24 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [28/Apr/2018:21:18:24 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [28/Apr/2018:21:18:24 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [28/Apr/2018:21:19:24 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [28/Apr/2018:21:19:24 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [28/Apr/2018:21:20:24 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [28/Apr/2018:21:20:24 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [28/Apr/2018:21:21:24 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [28/Apr/2018:21:21:24 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [28/Apr/2018:21:22:24 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [28/Apr/2018:21:22:24 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [28/Apr/2018:21:23:24 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [28/Apr/2018:21:23:24 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [28/Apr/2018:21:24:24 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [28/Apr/2018:21:24:24 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [28/Apr/2018:21:25:24 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [28/Apr/2018:21:25:24 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [28/Apr/2018:21:26:24 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [28/Apr/2018:21:26:24 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [28/Apr/2018:21:27:24 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [28/Apr/2018:21:27:25 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [28/Apr/2018:21:28:24 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [28/Apr/2018:21:28:24 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [28/Apr/2018:21:29:24 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [28/Apr/2018:21:29:24 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [28/Apr/2018:21:30:24 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [28/Apr/2018:21:30:24 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [28/Apr/2018:21:31:24 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [28/Apr/2018:21:31:24 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [28/Apr/2018:21:32:24 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [28/Apr/2018:21:32:24 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [28/Apr/2018:21:33:24 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [28/Apr/2018:21:33:24 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [28/Apr/2018:21:34:24 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [28/Apr/2018:21:34:24 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [28/Apr/2018:21:35:24 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [28/Apr/2018:21:35:24 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [28/Apr/2018:21:36:24 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [28/Apr/2018:21:36:24 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [28/Apr/2018:21:37:24 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [28/Apr/2018:21:37:24 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [28/Apr/2018:21:38:24 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [28/Apr/2018:21:38:24 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [28/Apr/2018:21:39:24 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [28/Apr/2018:21:39:24 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [28/Apr/2018:21:40:24 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [28/Apr/2018:21:40:24 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [28/Apr/2018:21:41:24 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [28/Apr/2018:21:41:24 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [28/Apr/2018:21:42:25 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [28/Apr/2018:21:42:25 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [28/Apr/2018:21:43:24 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [28/Apr/2018:21:43:24 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [28/Apr/2018:21:44:01 +0300] "GET /auth/favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [28/Apr/2018:21:44:01 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [28/Apr/2018:21:44:01 +0300] "GET /auth/favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [28/Apr/2018:21:44:01 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [28/Apr/2018:21:44:24 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [28/Apr/2018:21:44:24 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [28/Apr/2018:21:45:24 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [28/Apr/2018:21:45:25 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [28/Apr/2018:21:46:24 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [28/Apr/2018:21:46:24 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [28/Apr/2018:21:47:25 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [28/Apr/2018:21:47:26 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [28/Apr/2018:21:48:24 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [28/Apr/2018:21:48:25 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [28/Apr/2018:21:49:24 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [28/Apr/2018:21:49:24 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [28/Apr/2018:21:50:24 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [28/Apr/2018:21:50:25 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [28/Apr/2018:21:51:24 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [28/Apr/2018:21:51:24 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [28/Apr/2018:21:52:24 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [28/Apr/2018:21:52:24 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [28/Apr/2018:21:53:24 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [28/Apr/2018:21:53:24 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [28/Apr/2018:21:54:25 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [28/Apr/2018:21:54:25 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [28/Apr/2018:21:55:24 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [28/Apr/2018:21:55:25 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [28/Apr/2018:21:56:25 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [28/Apr/2018:21:56:26 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [28/Apr/2018:21:57:24 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [28/Apr/2018:21:57:25 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [28/Apr/2018:21:58:25 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [28/Apr/2018:21:58:25 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [28/Apr/2018:21:59:25 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [28/Apr/2018:21:59:25 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [28/Apr/2018:22:00:25 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [28/Apr/2018:22:00:25 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [28/Apr/2018:22:01:25 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [28/Apr/2018:22:01:25 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [28/Apr/2018:22:02:25 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [28/Apr/2018:22:02:25 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [28/Apr/2018:22:03:24 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [28/Apr/2018:22:03:24 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [28/Apr/2018:22:04:24 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [28/Apr/2018:22:04:25 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [28/Apr/2018:22:05:20 +0300] "GET /f/favicon.ico HTTP/1.1" 200 43
+127.0.0.1 - - [28/Apr/2018:22:05:20 +0300] "GET /ff/favicon.ico HTTP/1.1" 200 43
+127.0.0.1 - - [28/Apr/2018:22:05:20 +0300] "GET /f/favicon.ico HTTP/1.1" 200 43
+127.0.0.1 - - [28/Apr/2018:22:05:20 +0300] "GET /ff/favicon.ico HTTP/1.1" 200 43
+127.0.0.1 - - [28/Apr/2018:22:05:20 +0300] "GET /fff/favicon.ico HTTP/1.1" 200 43
+127.0.0.1 - - [28/Apr/2018:22:05:20 +0300] "GET /ffff/favicon.ico HTTP/1.1" 200 43
+127.0.0.1 - - [28/Apr/2018:22:05:21 +0300] "GET /fff/favicon.ico HTTP/1.1" 200 43
+127.0.0.1 - - [28/Apr/2018:22:05:21 +0300] "GET /ffff/favicon.ico HTTP/1.1" 200 43
+127.0.0.1 - - [28/Apr/2018:22:05:22 +0300] "GET /ffff/login HTTP/1.1" 200 43
+127.0.0.1 - - [28/Apr/2018:22:05:23 +0300] "GET /ffff/favicon.ico HTTP/1.1" 200 43
+127.0.0.1 - - [28/Apr/2018:22:05:23 +0300] "GET /favicon.ico HTTP/1.1" 200 43
+127.0.0.1 - - [28/Apr/2018:22:05:24 +0300] "GET /favicon.ico HTTP/1.1" 200 43
+127.0.0.1 - - [28/Apr/2018:22:05:24 +0300] "GET /ffff/favicon.ico HTTP/1.1" 200 43
+127.0.0.1 - - [28/Apr/2018:22:05:38 +0300] "GET /ffff/login HTTP/1.1" 200 50
+127.0.0.1 - - [28/Apr/2018:22:05:38 +0300] "GET /favicon.ico HTTP/1.1" 200 50
+127.0.0.1 - - [28/Apr/2018:22:06:25 +0300] "GET /ffff/favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [28/Apr/2018:22:06:25 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [28/Apr/2018:22:06:25 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [28/Apr/2018:22:06:25 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [28/Apr/2018:22:06:25 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [28/Apr/2018:22:06:25 +0300] "GET /404 HTTP/1.1" 200 226
+[Sat Apr 28 22:07:08.763992 2018] [php7:notice] [pid 9184:tid 1888] [client 127.0.0.1:55730] PHP Notice:  Undefined variable: action in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 59
+[Sat Apr 28 22:07:08.785478 2018] [php7:error] [pid 9184:tid 1888] [client 127.0.0.1:55730] PHP Fatal error:  Uncaught Error: Method name must be a string in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php:59\nStack trace:\n#0 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\bootstrap.php(9): Route::start()\n#1 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\index.php(9): require_once('C:\\\\Server\\\\domai...')\n#2 {main}\n  thrown in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 59
+127.0.0.1 - - [28/Apr/2018:22:07:08 +0300] "GET /ffff/login HTTP/1.1" 302 657
+127.0.0.1 - - [28/Apr/2018:22:07:08 +0300] "GET /404 HTTP/1.1" 200 226
+[Sat Apr 28 22:07:09.754584 2018] [php7:notice] [pid 9184:tid 1896] [client 127.0.0.1:55733] PHP Notice:  Undefined variable: action in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 59
+[Sat Apr 28 22:07:09.754584 2018] [php7:error] [pid 9184:tid 1896] [client 127.0.0.1:55733] PHP Fatal error:  Uncaught Error: Method name must be a string in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php:59\nStack trace:\n#0 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\bootstrap.php(9): Route::start()\n#1 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\index.php(9): require_once('C:\\\\Server\\\\domai...')\n#2 {main}\n  thrown in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 59
+127.0.0.1 - - [28/Apr/2018:22:07:09 +0300] "GET /favicon.ico HTTP/1.1" 302 657
+127.0.0.1 - - [28/Apr/2018:22:07:09 +0300] "GET /404 HTTP/1.1" 200 226
+[Sat Apr 28 22:07:09.766118 2018] [php7:notice] [pid 9184:tid 1888] [client 127.0.0.1:55730] PHP Notice:  Undefined variable: action in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 59, referer: http://art-corp.ru/404
+[Sat Apr 28 22:07:09.766118 2018] [php7:error] [pid 9184:tid 1888] [client 127.0.0.1:55730] PHP Fatal error:  Uncaught Error: Method name must be a string in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php:59\nStack trace:\n#0 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\bootstrap.php(9): Route::start()\n#1 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\index.php(9): require_once('C:\\\\Server\\\\domai...')\n#2 {main}\n  thrown in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 59, referer: http://art-corp.ru/404
+127.0.0.1 - - [28/Apr/2018:22:07:09 +0300] "GET /favicon.ico HTTP/1.1" 302 657
+127.0.0.1 - - [28/Apr/2018:22:07:09 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [28/Apr/2018:22:07:12 +0300] "GET /404 HTTP/1.1" 200 226
+[Sat Apr 28 22:07:12.766472 2018] [php7:notice] [pid 9184:tid 1888] [client 127.0.0.1:55730] PHP Notice:  Undefined variable: action in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 59, referer: http://art-corp.ru/404
+[Sat Apr 28 22:07:12.766472 2018] [php7:error] [pid 9184:tid 1888] [client 127.0.0.1:55730] PHP Fatal error:  Uncaught Error: Method name must be a string in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php:59\nStack trace:\n#0 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\bootstrap.php(9): Route::start()\n#1 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\index.php(9): require_once('C:\\\\Server\\\\domai...')\n#2 {main}\n  thrown in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 59, referer: http://art-corp.ru/404
+127.0.0.1 - - [28/Apr/2018:22:07:12 +0300] "GET /favicon.ico HTTP/1.1" 302 657
+127.0.0.1 - - [28/Apr/2018:22:07:12 +0300] "GET /404 HTTP/1.1" 200 226
+[Sat Apr 28 22:07:16.795863 2018] [php7:notice] [pid 9184:tid 1896] [client 127.0.0.1:55740] PHP Notice:  Undefined variable: action in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 59
+[Sat Apr 28 22:07:16.795863 2018] [php7:error] [pid 9184:tid 1896] [client 127.0.0.1:55740] PHP Fatal error:  Uncaught Error: Method name must be a string in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php:59\nStack trace:\n#0 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\bootstrap.php(9): Route::start()\n#1 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\index.php(9): require_once('C:\\\\Server\\\\domai...')\n#2 {main}\n  thrown in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 59
+127.0.0.1 - - [28/Apr/2018:22:07:16 +0300] "GET /favicon.ico HTTP/1.1" 302 657
+127.0.0.1 - - [28/Apr/2018:22:07:16 +0300] "GET /404 HTTP/1.1" 200 226
+[Sat Apr 28 22:07:16.860040 2018] [php7:notice] [pid 9184:tid 1896] [client 127.0.0.1:55740] PHP Notice:  Undefined variable: action in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 59
+[Sat Apr 28 22:07:16.860569 2018] [php7:error] [pid 9184:tid 1896] [client 127.0.0.1:55740] PHP Fatal error:  Uncaught Error: Method name must be a string in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php:59\nStack trace:\n#0 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\bootstrap.php(9): Route::start()\n#1 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\index.php(9): require_once('C:\\\\Server\\\\domai...')\n#2 {main}\n  thrown in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 59
+127.0.0.1 - - [28/Apr/2018:22:07:16 +0300] "GET /favicon.ico HTTP/1.1" 302 657
+127.0.0.1 - - [28/Apr/2018:22:07:16 +0300] "GET /404 HTTP/1.1" 200 226
+[Sat Apr 28 22:07:17.181806 2018] [php7:notice] [pid 9184:tid 1896] [client 127.0.0.1:55741] PHP Notice:  Undefined variable: action in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 59
+[Sat Apr 28 22:07:17.182308 2018] [php7:error] [pid 9184:tid 1896] [client 127.0.0.1:55741] PHP Fatal error:  Uncaught Error: Method name must be a string in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php:59\nStack trace:\n#0 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\bootstrap.php(9): Route::start()\n#1 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\index.php(9): require_once('C:\\\\Server\\\\domai...')\n#2 {main}\n  thrown in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 59
+127.0.0.1 - - [28/Apr/2018:22:07:17 +0300] "GET /favicon.ico HTTP/1.1" 302 657
+127.0.0.1 - - [28/Apr/2018:22:07:17 +0300] "GET /404 HTTP/1.1" 200 226
+[Sat Apr 28 22:07:17.986229 2018] [php7:error] [pid 9184:tid 1888] [client 127.0.0.1:55742] PHP Fatal error:  Uncaught Error: Call to a member function generate() on null in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\controllers\\controller_main.php:6\nStack trace:\n#0 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php(59): Controller_Main->action_index()\n#1 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\bootstrap.php(9): Route::start()\n#2 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\index.php(9): require_once('C:\\\\Server\\\\domai...')\n#3 {main}\n  thrown in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\controllers\\controller_main.php on line 6
+127.0.0.1 - - [28/Apr/2018:22:07:17 +0300] "GET / HTTP/1.1" 302 664
+127.0.0.1 - - [28/Apr/2018:22:07:17 +0300] "GET /auth/login HTTP/1.1" 200 465
+[Sat Apr 28 22:07:20.471515 2018] [php7:notice] [pid 9184:tid 1888] [client 127.0.0.1:55742] PHP Notice:  Undefined variable: action in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 59, referer: http://art-corp.ru/auth/login
+[Sat Apr 28 22:07:20.472018 2018] [php7:error] [pid 9184:tid 1888] [client 127.0.0.1:55742] PHP Fatal error:  Uncaught Error: Method name must be a string in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php:59\nStack trace:\n#0 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\bootstrap.php(9): Route::start()\n#1 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\index.php(9): require_once('C:\\\\Server\\\\domai...')\n#2 {main}\n  thrown in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 59, referer: http://art-corp.ru/auth/login
+127.0.0.1 - - [28/Apr/2018:22:07:20 +0300] "GET /favicon.ico HTTP/1.1" 302 657
+127.0.0.1 - - [28/Apr/2018:22:07:20 +0300] "GET /404 HTTP/1.1" 200 226
+[Sat Apr 28 22:07:25.913770 2018] [php7:notice] [pid 9184:tid 1888] [client 127.0.0.1:55757] PHP Notice:  Undefined variable: action in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 59
+[Sat Apr 28 22:07:25.913770 2018] [php7:error] [pid 9184:tid 1888] [client 127.0.0.1:55757] PHP Fatal error:  Uncaught Error: Method name must be a string in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php:59\nStack trace:\n#0 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\bootstrap.php(9): Route::start()\n#1 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\index.php(9): require_once('C:\\\\Server\\\\domai...')\n#2 {main}\n  thrown in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 59
+127.0.0.1 - - [28/Apr/2018:22:07:25 +0300] "GET /favicon.ico HTTP/1.1" 302 657
+127.0.0.1 - - [28/Apr/2018:22:07:25 +0300] "GET /404 HTTP/1.1" 200 226
+[Sat Apr 28 22:07:25.945855 2018] [php7:notice] [pid 9184:tid 1896] [client 127.0.0.1:55758] PHP Notice:  Undefined variable: action in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 59
+[Sat Apr 28 22:07:25.945855 2018] [php7:error] [pid 9184:tid 1896] [client 127.0.0.1:55758] PHP Fatal error:  Uncaught Error: Method name must be a string in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php:59\nStack trace:\n#0 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\bootstrap.php(9): Route::start()\n#1 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\index.php(9): require_once('C:\\\\Server\\\\domai...')\n#2 {main}\n  thrown in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 59
+127.0.0.1 - - [28/Apr/2018:22:07:25 +0300] "GET /ffff/favicon.ico HTTP/1.1" 302 657
+127.0.0.1 - - [28/Apr/2018:22:07:25 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [28/Apr/2018:22:07:25 +0300] "GET /auth/enter?uid=21651946&first_name=%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B9&last_name=%D0%97%D0%B0%D0%B3%D0%BE%D1%80%D1%86%D0%B5%D0%B2&photo=https://pp.userapi.com/c840125/v840125293/30a1e/TpwqwZuLFk0.jpg&photo_rec=https://pp.userapi.com/c840125/v840125293/30a22/mCOY4gnH6f4.jpg&hash=89e603d4176bf1fa442b5c88772972f9 HTTP/1.1" 302 110
+127.0.0.1 - - [28/Apr/2018:22:07:26 +0300] "GET / HTTP/1.1" 200 343
+[Sat Apr 28 22:07:26.161991 2018] [php7:notice] [pid 9184:tid 1896] [client 127.0.0.1:55758] PHP Notice:  Undefined variable: action in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 59
+[Sat Apr 28 22:07:26.162467 2018] [php7:error] [pid 9184:tid 1896] [client 127.0.0.1:55758] PHP Fatal error:  Uncaught Error: Method name must be a string in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php:59\nStack trace:\n#0 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\bootstrap.php(9): Route::start()\n#1 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\index.php(9): require_once('C:\\\\Server\\\\domai...')\n#2 {main}\n  thrown in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 59
+127.0.0.1 - - [28/Apr/2018:22:07:26 +0300] "GET /favicon.ico HTTP/1.1" 302 657
+127.0.0.1 - - [28/Apr/2018:22:07:26 +0300] "GET /404 HTTP/1.1" 200 226
+[Sat Apr 28 22:07:26.226741 2018] [php7:notice] [pid 9184:tid 1892] [client 127.0.0.1:55759] PHP Notice:  Undefined variable: action in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 59, referer: http://art-corp.ru/
+[Sat Apr 28 22:07:26.387218 2018] [php7:error] [pid 9184:tid 1892] [client 127.0.0.1:55759] PHP Fatal error:  Uncaught Error: Method name must be a string in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php:59\nStack trace:\n#0 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\bootstrap.php(9): Route::start()\n#1 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\index.php(9): require_once('C:\\\\Server\\\\domai...')\n#2 {main}\n  thrown in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 59, referer: http://art-corp.ru/
+127.0.0.1 - - [28/Apr/2018:22:07:26 +0300] "GET /favicon.ico HTTP/1.1" 302 657
+127.0.0.1 - - [28/Apr/2018:22:07:26 +0300] "GET /404 HTTP/1.1" 200 226
+[Sat Apr 28 22:08:25.120215 2018] [php7:notice] [pid 9184:tid 1896] [client 127.0.0.1:55811] PHP Notice:  Undefined variable: action in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 59
+[Sat Apr 28 22:08:25.120215 2018] [php7:notice] [pid 9184:tid 1892] [client 127.0.0.1:55812] PHP Notice:  Undefined variable: action in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 59
+[Sat Apr 28 22:08:25.120215 2018] [php7:error] [pid 9184:tid 1896] [client 127.0.0.1:55811] PHP Fatal error:  Uncaught Error: Method name must be a string in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php:59\nStack trace:\n#0 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\bootstrap.php(9): Route::start()\n#1 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\index.php(9): require_once('C:\\\\Server\\\\domai...')\n#2 {main}\n  thrown in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 59
+[Sat Apr 28 22:08:25.120215 2018] [php7:error] [pid 9184:tid 1892] [client 127.0.0.1:55812] PHP Fatal error:  Uncaught Error: Method name must be a string in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php:59\nStack trace:\n#0 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\bootstrap.php(9): Route::start()\n#1 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\index.php(9): require_once('C:\\\\Server\\\\domai...')\n#2 {main}\n  thrown in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 59
+127.0.0.1 - - [28/Apr/2018:22:08:25 +0300] "GET /favicon.ico HTTP/1.1" 302 657
+127.0.0.1 - - [28/Apr/2018:22:08:25 +0300] "GET /ffff/favicon.ico HTTP/1.1" 302 657
+127.0.0.1 - - [28/Apr/2018:22:08:25 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [28/Apr/2018:22:08:25 +0300] "GET /404 HTTP/1.1" 200 226
+[Sat Apr 28 22:09:25.158694 2018] [php7:error] [pid 9184:tid 1892] [client 127.0.0.1:55837] PHP Fatal error:  Cannot use try without catch or finally in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 60
+[Sat Apr 28 22:09:25.158694 2018] [php7:error] [pid 9184:tid 1896] [client 127.0.0.1:55836] PHP Fatal error:  Cannot use try without catch or finally in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 60
+127.0.0.1 - - [28/Apr/2018:22:09:25 +0300] "GET /favicon.ico HTTP/1.1" 200 178
+127.0.0.1 - - [28/Apr/2018:22:09:25 +0300] "GET /ffff/favicon.ico HTTP/1.1" 200 178
+[Sat Apr 28 22:10:25.080531 2018] [php7:error] [pid 9184:tid 1896] [client 127.0.0.1:55870] PHP Fatal error:  Cannot use try without catch or finally in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 60
+[Sat Apr 28 22:10:25.080531 2018] [php7:error] [pid 9184:tid 1892] [client 127.0.0.1:55871] PHP Fatal error:  Cannot use try without catch or finally in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 60
+127.0.0.1 - - [28/Apr/2018:22:10:25 +0300] "GET /favicon.ico HTTP/1.1" 200 178
+127.0.0.1 - - [28/Apr/2018:22:10:25 +0300] "GET /ffff/favicon.ico HTTP/1.1" 200 178
+[Sat Apr 28 22:11:25.101970 2018] [php7:error] [pid 9184:tid 1892] [client 127.0.0.1:55901] PHP Fatal error:  Cannot use try without catch or finally in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 60
+[Sat Apr 28 22:11:25.101970 2018] [php7:error] [pid 9184:tid 1896] [client 127.0.0.1:55902] PHP Fatal error:  Cannot use try without catch or finally in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 60
+127.0.0.1 - - [28/Apr/2018:22:11:25 +0300] "GET /ffff/favicon.ico HTTP/1.1" 200 178
+127.0.0.1 - - [28/Apr/2018:22:11:25 +0300] "GET /favicon.ico HTTP/1.1" 200 178
+[Sat Apr 28 22:12:25.089991 2018] [php7:error] [pid 9184:tid 1892] [client 127.0.0.1:55926] PHP Fatal error:  Cannot use try without catch or finally in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 60
+[Sat Apr 28 22:12:25.089991 2018] [php7:error] [pid 9184:tid 1896] [client 127.0.0.1:55927] PHP Fatal error:  Cannot use try without catch or finally in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 60
+127.0.0.1 - - [28/Apr/2018:22:12:25 +0300] "GET /favicon.ico HTTP/1.1" 200 178
+127.0.0.1 - - [28/Apr/2018:22:12:25 +0300] "GET /ffff/favicon.ico HTTP/1.1" 200 178
+[Sat Apr 28 22:13:25.103359 2018] [php7:error] [pid 9184:tid 1896] [client 127.0.0.1:55952] PHP Fatal error:  Cannot use try without catch or finally in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 60
+[Sat Apr 28 22:13:25.103359 2018] [php7:error] [pid 9184:tid 1892] [client 127.0.0.1:55953] PHP Fatal error:  Cannot use try without catch or finally in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 60
+127.0.0.1 - - [28/Apr/2018:22:13:25 +0300] "GET /favicon.ico HTTP/1.1" 200 178
+127.0.0.1 - - [28/Apr/2018:22:13:25 +0300] "GET /ffff/favicon.ico HTTP/1.1" 200 178
+[Sat Apr 28 22:14:25.524818 2018] [php7:error] [pid 9184:tid 1892] [client 127.0.0.1:55989] PHP Fatal error:  Cannot use try without catch or finally in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 60
+127.0.0.1 - - [28/Apr/2018:22:14:25 +0300] "GET /favicon.ico HTTP/1.1" 200 178
+[Sat Apr 28 22:15:25.129865 2018] [php7:error] [pid 9184:tid 1892] [client 127.0.0.1:56029] PHP Fatal error:  Cannot use try without catch or finally in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 60
+127.0.0.1 - - [28/Apr/2018:22:15:25 +0300] "GET /favicon.ico HTTP/1.1" 200 178
+[Sat Apr 28 22:16:25.226827 2018] [php7:error] [pid 9184:tid 1892] [client 127.0.0.1:56063] PHP Fatal error:  Cannot use try without catch or finally in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 60
+127.0.0.1 - - [28/Apr/2018:22:16:25 +0300] "GET /favicon.ico HTTP/1.1" 200 178
+[Sat Apr 28 22:17:25.064660 2018] [php7:error] [pid 9184:tid 1892] [client 127.0.0.1:56098] PHP Fatal error:  Cannot use try without catch or finally in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 60
+127.0.0.1 - - [28/Apr/2018:22:17:25 +0300] "GET /favicon.ico HTTP/1.1" 200 178
+[Sat Apr 28 22:18:25.302624 2018] [php7:error] [pid 9184:tid 1892] [client 127.0.0.1:56130] PHP Fatal error:  Cannot use try without catch or finally in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 60
+127.0.0.1 - - [28/Apr/2018:22:18:25 +0300] "GET /favicon.ico HTTP/1.1" 200 178
+[Sat Apr 28 22:19:25.090923 2018] [php7:error] [pid 9184:tid 1892] [client 127.0.0.1:56157] PHP Fatal error:  Cannot use try without catch or finally in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 60
+127.0.0.1 - - [28/Apr/2018:22:19:25 +0300] "GET /favicon.ico HTTP/1.1" 200 178
+[Sat Apr 28 22:20:25.095969 2018] [php7:error] [pid 9184:tid 1892] [client 127.0.0.1:56195] PHP Fatal error:  Cannot use try without catch or finally in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 60
+127.0.0.1 - - [28/Apr/2018:22:20:25 +0300] "GET /favicon.ico HTTP/1.1" 200 178
+[Sat Apr 28 22:21:25.250781 2018] [php7:error] [pid 9184:tid 1892] [client 127.0.0.1:56273] PHP Fatal error:  Cannot use try without catch or finally in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 60
+127.0.0.1 - - [28/Apr/2018:22:21:25 +0300] "GET /favicon.ico HTTP/1.1" 200 178
+[Sat Apr 28 22:22:25.113623 2018] [php7:error] [pid 9184:tid 1892] [client 127.0.0.1:56355] PHP Fatal error:  Cannot use try without catch or finally in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 60
+127.0.0.1 - - [28/Apr/2018:22:22:25 +0300] "GET /favicon.ico HTTP/1.1" 200 178
+[Sat Apr 28 22:23:25.143898 2018] [php7:error] [pid 9184:tid 1892] [client 127.0.0.1:56412] PHP Fatal error:  Cannot use try without catch or finally in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 60
+127.0.0.1 - - [28/Apr/2018:22:23:25 +0300] "GET /favicon.ico HTTP/1.1" 200 178
+[Sat Apr 28 22:24:25.140770 2018] [php7:error] [pid 9184:tid 1892] [client 127.0.0.1:56538] PHP Fatal error:  Cannot use try without catch or finally in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 60
+127.0.0.1 - - [28/Apr/2018:22:24:25 +0300] "GET /favicon.ico HTTP/1.1" 200 178
+[Sat Apr 28 22:25:25.102770 2018] [php7:error] [pid 9184:tid 1892] [client 127.0.0.1:56574] PHP Fatal error:  Cannot use try without catch or finally in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 60
+127.0.0.1 - - [28/Apr/2018:22:25:25 +0300] "GET /favicon.ico HTTP/1.1" 200 178
+[Sat Apr 28 22:26:25.100384 2018] [php7:error] [pid 9184:tid 1892] [client 127.0.0.1:56623] PHP Fatal error:  Cannot use try without catch or finally in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 60
+127.0.0.1 - - [28/Apr/2018:22:26:25 +0300] "GET /favicon.ico HTTP/1.1" 200 178
+[Sat Apr 28 22:27:25.610836 2018] [php7:error] [pid 9184:tid 1892] [client 127.0.0.1:56664] PHP Fatal error:  Cannot use try without catch or finally in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 60
+127.0.0.1 - - [28/Apr/2018:22:27:25 +0300] "GET /favicon.ico HTTP/1.1" 200 178
+[Sat Apr 28 22:28:25.758180 2018] [php7:error] [pid 9184:tid 1892] [client 127.0.0.1:56710] PHP Fatal error:  Cannot use try without catch or finally in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 60
+127.0.0.1 - - [28/Apr/2018:22:28:25 +0300] "GET /favicon.ico HTTP/1.1" 200 178
+[Sat Apr 28 22:29:24.787876 2018] [php7:error] [pid 9184:tid 1892] [client 127.0.0.1:56769] PHP Fatal error:  Cannot use try without catch or finally in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 60
+127.0.0.1 - - [28/Apr/2018:22:29:24 +0300] "GET /favicon.ico HTTP/1.1" 200 178
+[Sat Apr 28 22:30:24.789114 2018] [php7:error] [pid 9184:tid 1892] [client 127.0.0.1:56813] PHP Fatal error:  Cannot use try without catch or finally in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 60
+127.0.0.1 - - [28/Apr/2018:22:30:24 +0300] "GET /favicon.ico HTTP/1.1" 200 178
+[Sat Apr 28 22:31:24.803989 2018] [php7:crit] [pid 9184:tid 1892] [client 127.0.0.1:56814] PHP Parse error:  syntax error, unexpected '{', expecting '(' in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 63
+127.0.0.1 - - [28/Apr/2018:22:31:24 +0300] "GET /favicon.ico HTTP/1.1" 200 182
+127.0.0.1 - - [28/Apr/2018:22:32:15 +0300] "GET / HTTP/1.1" 200 343
+[Sat Apr 28 22:32:15.279537 2018] [php7:notice] [pid 9184:tid 1892] [client 127.0.0.1:56831] PHP Notice:  Undefined variable: controller in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56, referer: http://art-corp.ru/
+[Sat Apr 28 22:32:15.279537 2018] [php7:notice] [pid 9184:tid 1892] [client 127.0.0.1:56831] PHP Notice:  Undefined variable: action in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56, referer: http://art-corp.ru/
+127.0.0.1 - - [28/Apr/2018:22:32:15 +0300] "GET /favicon.ico HTTP/1.1" 302 347
+127.0.0.1 - - [28/Apr/2018:22:32:15 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [28/Apr/2018:22:32:18 +0300] "GET /auth/login HTTP/1.1" 302 465
+127.0.0.1 - - [28/Apr/2018:22:32:18 +0300] "GET / HTTP/1.1" 200 343
+[Sat Apr 28 22:32:18.604847 2018] [php7:notice] [pid 9184:tid 1892] [client 127.0.0.1:56831] PHP Notice:  Undefined variable: controller in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56, referer: http://art-corp.ru/
+[Sat Apr 28 22:32:18.604847 2018] [php7:notice] [pid 9184:tid 1892] [client 127.0.0.1:56831] PHP Notice:  Undefined variable: action in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56, referer: http://art-corp.ru/
+127.0.0.1 - - [28/Apr/2018:22:32:18 +0300] "GET /favicon.ico HTTP/1.1" 302 347
+127.0.0.1 - - [28/Apr/2018:22:32:18 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [28/Apr/2018:22:32:20 +0300] "GET /auth/exit HTTP/1.1" 302 3
+[Sat Apr 28 22:32:20.635495 2018] [php7:error] [pid 9184:tid 1892] [client 127.0.0.1:56831] PHP Fatal error:  Uncaught Error: Call to a member function generate() on null in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\controllers\\controller_main.php:6\nStack trace:\n#0 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php(60): Controller_Main->action_index()\n#1 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\bootstrap.php(9): Route::start()\n#2 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\index.php(9): require_once('C:\\\\Server\\\\domai...')\n#3 {main}\n  thrown in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\controllers\\controller_main.php on line 6, referer: http://art-corp.ru/
+127.0.0.1 - - [28/Apr/2018:22:32:20 +0300] "GET / HTTP/1.1" 302 664
+127.0.0.1 - - [28/Apr/2018:22:32:20 +0300] "GET /auth/login HTTP/1.1" 200 465
+127.0.0.1 - - [28/Apr/2018:22:32:20 +0300] "GET /auth/favicon.ico HTTP/1.1" 200 23
+[Sat Apr 28 22:32:21.089985 2018] [php7:notice] [pid 9184:tid 1892] [client 127.0.0.1:56831] PHP Notice:  Undefined variable: controller in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56, referer: http://art-corp.ru/auth/login
+[Sat Apr 28 22:32:21.090988 2018] [php7:notice] [pid 9184:tid 1892] [client 127.0.0.1:56831] PHP Notice:  Undefined variable: action in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56, referer: http://art-corp.ru/auth/login
+127.0.0.1 - - [28/Apr/2018:22:32:21 +0300] "GET /favicon.ico HTTP/1.1" 302 347
+127.0.0.1 - - [28/Apr/2018:22:32:21 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [28/Apr/2018:22:32:24 +0300] "GET /auth/favicon.ico HTTP/1.1" 200 23
+127.0.0.1 - - [28/Apr/2018:22:32:24 +0300] "GET /auth/favicon.ico HTTP/1.1" 200 23
+127.0.0.1 - - [28/Apr/2018:22:32:24 +0300] "GET /auth/favicon.ico HTTP/1.1" 200 23
+127.0.0.1 - - [28/Apr/2018:22:32:24 +0300] "GET /auth/favicon.ico HTTP/1.1" 200 23
+[Sat Apr 28 22:32:24.718484 2018] [php7:notice] [pid 9184:tid 1872] [client 127.0.0.1:56840] PHP Notice:  Undefined variable: controller in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56
+[Sat Apr 28 22:32:24.718484 2018] [php7:notice] [pid 9184:tid 1872] [client 127.0.0.1:56840] PHP Notice:  Undefined variable: action in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56
+127.0.0.1 - - [28/Apr/2018:22:32:24 +0300] "GET /favicon.ico HTTP/1.1" 302 347
+127.0.0.1 - - [28/Apr/2018:22:32:24 +0300] "GET /auth/favicon.ico HTTP/1.1" 200 23
+127.0.0.1 - - [28/Apr/2018:22:32:24 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [28/Apr/2018:22:32:24 +0300] "GET /auth/logingh HTTP/1.1" 200 23
+127.0.0.1 - - [28/Apr/2018:22:32:24 +0300] "GET /auth/favicon.ico HTTP/1.1" 200 23
+[Sat Apr 28 22:32:24.922823 2018] [php7:notice] [pid 9184:tid 1892] [client 127.0.0.1:56831] PHP Notice:  Undefined variable: controller in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56, referer: http://art-corp.ru/auth/logingh
+[Sat Apr 28 22:32:24.922823 2018] [php7:notice] [pid 9184:tid 1892] [client 127.0.0.1:56831] PHP Notice:  Undefined variable: action in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56, referer: http://art-corp.ru/auth/logingh
+127.0.0.1 - - [28/Apr/2018:22:32:24 +0300] "GET /favicon.ico HTTP/1.1" 302 347
+127.0.0.1 - - [28/Apr/2018:22:32:24 +0300] "GET /404 HTTP/1.1" 200 226
+[Sat Apr 28 22:33:24.767100 2018] [php7:notice] [pid 9184:tid 1888] [client 127.0.0.1:56844] PHP Notice:  Undefined variable: controller in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56
+[Sat Apr 28 22:33:24.767100 2018] [php7:notice] [pid 9184:tid 1888] [client 127.0.0.1:56844] PHP Notice:  Undefined variable: action in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56
+127.0.0.1 - - [28/Apr/2018:22:33:24 +0300] "GET /favicon.ico HTTP/1.1" 302 347
+127.0.0.1 - - [28/Apr/2018:22:33:24 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [28/Apr/2018:22:33:24 +0300] "GET /auth/favicon.ico HTTP/1.1" 200 23
+[Sat Apr 28 22:34:24.741238 2018] [php7:notice] [pid 9184:tid 1896] [client 127.0.0.1:56877] PHP Notice:  Undefined variable: controller in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56
+[Sat Apr 28 22:34:24.741238 2018] [php7:notice] [pid 9184:tid 1896] [client 127.0.0.1:56877] PHP Notice:  Undefined variable: action in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56
+127.0.0.1 - - [28/Apr/2018:22:34:24 +0300] "GET /favicon.ico HTTP/1.1" 302 347
+127.0.0.1 - - [28/Apr/2018:22:34:24 +0300] "GET /auth/favicon.ico HTTP/1.1" 200 23
+127.0.0.1 - - [28/Apr/2018:22:34:24 +0300] "GET /404 HTTP/1.1" 200 226
+[Sat Apr 28 22:35:24.774988 2018] [php7:notice] [pid 9184:tid 1888] [client 127.0.0.1:57104] PHP Notice:  Undefined variable: controller in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56
+[Sat Apr 28 22:35:24.774988 2018] [php7:notice] [pid 9184:tid 1888] [client 127.0.0.1:57104] PHP Notice:  Undefined variable: action in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56
+127.0.0.1 - - [28/Apr/2018:22:35:24 +0300] "GET /favicon.ico HTTP/1.1" 302 347
+127.0.0.1 - - [28/Apr/2018:22:35:24 +0300] "GET /auth/favicon.ico HTTP/1.1" 200 23
+127.0.0.1 - - [28/Apr/2018:22:35:24 +0300] "GET /404 HTTP/1.1" 200 226
+[Sat Apr 28 22:36:24.805740 2018] [php7:notice] [pid 9184:tid 1896] [client 127.0.0.1:57124] PHP Notice:  Undefined variable: controller in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56
+[Sat Apr 28 22:36:24.805740 2018] [php7:notice] [pid 9184:tid 1896] [client 127.0.0.1:57124] PHP Notice:  Undefined variable: action in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56
+127.0.0.1 - - [28/Apr/2018:22:36:24 +0300] "GET /favicon.ico HTTP/1.1" 302 347
+127.0.0.1 - - [28/Apr/2018:22:36:24 +0300] "GET /auth/favicon.ico HTTP/1.1" 200 23
+127.0.0.1 - - [28/Apr/2018:22:36:24 +0300] "GET /404 HTTP/1.1" 200 226
+[Sat Apr 28 22:37:24.809664 2018] [php7:notice] [pid 9184:tid 1888] [client 127.0.0.1:57128] PHP Notice:  Undefined variable: controller in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56
+[Sat Apr 28 22:37:24.809664 2018] [php7:notice] [pid 9184:tid 1888] [client 127.0.0.1:57128] PHP Notice:  Undefined variable: action in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56
+127.0.0.1 - - [28/Apr/2018:22:37:24 +0300] "GET /favicon.ico HTTP/1.1" 302 347
+127.0.0.1 - - [28/Apr/2018:22:37:24 +0300] "GET /auth/favicon.ico HTTP/1.1" 200 23
+127.0.0.1 - - [28/Apr/2018:22:37:24 +0300] "GET /404 HTTP/1.1" 200 226
+[Sat Apr 28 22:38:24.785967 2018] [php7:notice] [pid 9184:tid 1888] [client 127.0.0.1:57133] PHP Notice:  Undefined variable: controller in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56
+[Sat Apr 28 22:38:24.785967 2018] [php7:notice] [pid 9184:tid 1888] [client 127.0.0.1:57133] PHP Notice:  Undefined variable: action in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56
+127.0.0.1 - - [28/Apr/2018:22:38:24 +0300] "GET /favicon.ico HTTP/1.1" 302 347
+127.0.0.1 - - [28/Apr/2018:22:38:24 +0300] "GET /auth/favicon.ico HTTP/1.1" 200 23
+127.0.0.1 - - [28/Apr/2018:22:38:24 +0300] "GET /404 HTTP/1.1" 200 226
+[Sat Apr 28 22:39:24.813315 2018] [php7:notice] [pid 9184:tid 1896] [client 127.0.0.1:57139] PHP Notice:  Undefined variable: controller in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56
+[Sat Apr 28 22:39:24.813315 2018] [php7:notice] [pid 9184:tid 1896] [client 127.0.0.1:57139] PHP Notice:  Undefined variable: action in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56
+127.0.0.1 - - [28/Apr/2018:22:39:24 +0300] "GET /favicon.ico HTTP/1.1" 302 347
+127.0.0.1 - - [28/Apr/2018:22:39:24 +0300] "GET /auth/favicon.ico HTTP/1.1" 200 23
+127.0.0.1 - - [28/Apr/2018:22:39:24 +0300] "GET /404 HTTP/1.1" 200 226
+[Sat Apr 28 22:40:24.782650 2018] [php7:notice] [pid 9184:tid 1896] [client 127.0.0.1:57141] PHP Notice:  Undefined variable: controller in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56
+[Sat Apr 28 22:40:24.782650 2018] [php7:notice] [pid 9184:tid 1896] [client 127.0.0.1:57141] PHP Notice:  Undefined variable: action in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56
+127.0.0.1 - - [28/Apr/2018:22:40:24 +0300] "GET /favicon.ico HTTP/1.1" 302 347
+127.0.0.1 - - [28/Apr/2018:22:40:24 +0300] "GET /auth/favicon.ico HTTP/1.1" 200 23
+127.0.0.1 - - [28/Apr/2018:22:40:24 +0300] "GET /404 HTTP/1.1" 200 226
+[Sat Apr 28 22:41:24.796328 2018] [php7:notice] [pid 9184:tid 1896] [client 127.0.0.1:57151] PHP Notice:  Undefined variable: controller in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56
+[Sat Apr 28 22:41:24.796328 2018] [php7:notice] [pid 9184:tid 1896] [client 127.0.0.1:57151] PHP Notice:  Undefined variable: action in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56
+127.0.0.1 - - [28/Apr/2018:22:41:24 +0300] "GET /favicon.ico HTTP/1.1" 302 347
+127.0.0.1 - - [28/Apr/2018:22:41:24 +0300] "GET /auth/favicon.ico HTTP/1.1" 200 23
+127.0.0.1 - - [28/Apr/2018:22:41:24 +0300] "GET /404 HTTP/1.1" 200 226
+[Sat Apr 28 22:42:24.802073 2018] [php7:notice] [pid 9184:tid 1896] [client 127.0.0.1:57156] PHP Notice:  Undefined variable: controller in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56
+[Sat Apr 28 22:42:24.802073 2018] [php7:notice] [pid 9184:tid 1896] [client 127.0.0.1:57156] PHP Notice:  Undefined variable: action in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56
+127.0.0.1 - - [28/Apr/2018:22:42:24 +0300] "GET /favicon.ico HTTP/1.1" 302 347
+127.0.0.1 - - [28/Apr/2018:22:42:24 +0300] "GET /auth/favicon.ico HTTP/1.1" 200 23
+127.0.0.1 - - [28/Apr/2018:22:42:24 +0300] "GET /404 HTTP/1.1" 200 226
+[Sat Apr 28 22:43:24.792353 2018] [php7:notice] [pid 9184:tid 1888] [client 127.0.0.1:57162] PHP Notice:  Undefined variable: controller in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56
+[Sat Apr 28 22:43:24.792353 2018] [php7:notice] [pid 9184:tid 1888] [client 127.0.0.1:57162] PHP Notice:  Undefined variable: action in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56
+127.0.0.1 - - [28/Apr/2018:22:43:24 +0300] "GET /favicon.ico HTTP/1.1" 302 347
+127.0.0.1 - - [28/Apr/2018:22:43:24 +0300] "GET /auth/favicon.ico HTTP/1.1" 200 23
+127.0.0.1 - - [28/Apr/2018:22:43:24 +0300] "GET /404 HTTP/1.1" 200 226
+[Sat Apr 28 22:44:24.791945 2018] [php7:notice] [pid 9184:tid 1896] [client 127.0.0.1:57167] PHP Notice:  Undefined variable: controller in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56
+[Sat Apr 28 22:44:24.791945 2018] [php7:notice] [pid 9184:tid 1896] [client 127.0.0.1:57167] PHP Notice:  Undefined variable: action in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56
+127.0.0.1 - - [28/Apr/2018:22:44:24 +0300] "GET /favicon.ico HTTP/1.1" 302 347
+127.0.0.1 - - [28/Apr/2018:22:44:24 +0300] "GET /auth/favicon.ico HTTP/1.1" 200 23
+127.0.0.1 - - [28/Apr/2018:22:44:24 +0300] "GET /404 HTTP/1.1" 200 226
+[Sat Apr 28 22:45:24.778685 2018] [php7:notice] [pid 9184:tid 1896] [client 127.0.0.1:57171] PHP Notice:  Undefined variable: controller in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56
+[Sat Apr 28 22:45:24.778685 2018] [php7:notice] [pid 9184:tid 1896] [client 127.0.0.1:57171] PHP Notice:  Undefined variable: action in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56
+127.0.0.1 - - [28/Apr/2018:22:45:24 +0300] "GET /favicon.ico HTTP/1.1" 302 347
+127.0.0.1 - - [28/Apr/2018:22:45:24 +0300] "GET /auth/favicon.ico HTTP/1.1" 200 23
+127.0.0.1 - - [28/Apr/2018:22:45:24 +0300] "GET /404 HTTP/1.1" 200 226
+[Sat Apr 28 22:46:24.812701 2018] [php7:notice] [pid 9184:tid 1896] [client 127.0.0.1:57177] PHP Notice:  Undefined variable: controller in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56
+[Sat Apr 28 22:46:24.812701 2018] [php7:notice] [pid 9184:tid 1896] [client 127.0.0.1:57177] PHP Notice:  Undefined variable: action in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56
+127.0.0.1 - - [28/Apr/2018:22:46:24 +0300] "GET /auth/favicon.ico HTTP/1.1" 200 23
+127.0.0.1 - - [28/Apr/2018:22:46:24 +0300] "GET /favicon.ico HTTP/1.1" 302 347
+127.0.0.1 - - [28/Apr/2018:22:46:24 +0300] "GET /404 HTTP/1.1" 200 226
+[Sat Apr 28 22:47:24.801238 2018] [php7:notice] [pid 9184:tid 1888] [client 127.0.0.1:57182] PHP Notice:  Undefined variable: controller in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56
+[Sat Apr 28 22:47:24.801238 2018] [php7:notice] [pid 9184:tid 1888] [client 127.0.0.1:57182] PHP Notice:  Undefined variable: action in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56
+127.0.0.1 - - [28/Apr/2018:22:47:24 +0300] "GET /favicon.ico HTTP/1.1" 302 347
+127.0.0.1 - - [28/Apr/2018:22:47:24 +0300] "GET /auth/favicon.ico HTTP/1.1" 200 23
+127.0.0.1 - - [28/Apr/2018:22:47:24 +0300] "GET /404 HTTP/1.1" 200 226
+[Sat Apr 28 22:48:24.780248 2018] [php7:notice] [pid 9184:tid 1888] [client 127.0.0.1:57186] PHP Notice:  Undefined variable: controller in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56
+[Sat Apr 28 22:48:24.780248 2018] [php7:notice] [pid 9184:tid 1888] [client 127.0.0.1:57186] PHP Notice:  Undefined variable: action in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56
+127.0.0.1 - - [28/Apr/2018:22:48:24 +0300] "GET /favicon.ico HTTP/1.1" 302 347
+127.0.0.1 - - [28/Apr/2018:22:48:24 +0300] "GET /auth/favicon.ico HTTP/1.1" 200 23
+127.0.0.1 - - [28/Apr/2018:22:48:24 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [28/Apr/2018:22:49:24 +0300] "GET /auth/favicon.ico HTTP/1.1" 200 23
+[Sat Apr 28 22:49:24.802234 2018] [php7:notice] [pid 9184:tid 1896] [client 127.0.0.1:57188] PHP Notice:  Undefined variable: controller in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56
+[Sat Apr 28 22:49:24.802234 2018] [php7:notice] [pid 9184:tid 1896] [client 127.0.0.1:57188] PHP Notice:  Undefined variable: action in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56
+127.0.0.1 - - [28/Apr/2018:22:49:24 +0300] "GET /favicon.ico HTTP/1.1" 302 347
+127.0.0.1 - - [28/Apr/2018:22:49:24 +0300] "GET /404 HTTP/1.1" 200 226
+[Sat Apr 28 22:50:24.779195 2018] [php7:notice] [pid 9184:tid 1896] [client 127.0.0.1:57191] PHP Notice:  Undefined variable: controller in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56
+[Sat Apr 28 22:50:24.779195 2018] [php7:notice] [pid 9184:tid 1896] [client 127.0.0.1:57191] PHP Notice:  Undefined variable: action in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56
+127.0.0.1 - - [28/Apr/2018:22:50:24 +0300] "GET /favicon.ico HTTP/1.1" 302 347
+127.0.0.1 - - [28/Apr/2018:22:50:24 +0300] "GET /auth/favicon.ico HTTP/1.1" 200 23
+127.0.0.1 - - [28/Apr/2018:22:50:24 +0300] "GET /404 HTTP/1.1" 200 226
+[Sat Apr 28 22:51:24.797219 2018] [php7:notice] [pid 9184:tid 1888] [client 127.0.0.1:57193] PHP Notice:  Undefined variable: controller in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56
+[Sat Apr 28 22:51:24.797219 2018] [php7:notice] [pid 9184:tid 1888] [client 127.0.0.1:57193] PHP Notice:  Undefined variable: action in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56
+127.0.0.1 - - [28/Apr/2018:22:51:24 +0300] "GET /favicon.ico HTTP/1.1" 302 347
+127.0.0.1 - - [28/Apr/2018:22:51:24 +0300] "GET /auth/favicon.ico HTTP/1.1" 200 23
+127.0.0.1 - - [28/Apr/2018:22:51:24 +0300] "GET /404 HTTP/1.1" 200 226
+[Sat Apr 28 22:52:24.796765 2018] [php7:notice] [pid 9184:tid 1896] [client 127.0.0.1:57196] PHP Notice:  Undefined variable: controller in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56
+[Sat Apr 28 22:52:24.796765 2018] [php7:notice] [pid 9184:tid 1896] [client 127.0.0.1:57196] PHP Notice:  Undefined variable: action in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56
+127.0.0.1 - - [28/Apr/2018:22:52:24 +0300] "GET /favicon.ico HTTP/1.1" 302 347
+127.0.0.1 - - [28/Apr/2018:22:52:24 +0300] "GET /auth/favicon.ico HTTP/1.1" 200 23
+127.0.0.1 - - [28/Apr/2018:22:52:24 +0300] "GET /404 HTTP/1.1" 200 226
+[Sat Apr 28 22:53:24.807985 2018] [php7:notice] [pid 9184:tid 1896] [client 127.0.0.1:57200] PHP Notice:  Undefined variable: controller in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56
+[Sat Apr 28 22:53:24.807985 2018] [php7:notice] [pid 9184:tid 1896] [client 127.0.0.1:57200] PHP Notice:  Undefined variable: action in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56
+127.0.0.1 - - [28/Apr/2018:22:53:24 +0300] "GET /favicon.ico HTTP/1.1" 302 347
+127.0.0.1 - - [28/Apr/2018:22:53:24 +0300] "GET /auth/favicon.ico HTTP/1.1" 200 23
+127.0.0.1 - - [28/Apr/2018:22:53:24 +0300] "GET /404 HTTP/1.1" 200 226
+[Sat Apr 28 22:54:24.832633 2018] [php7:notice] [pid 9184:tid 1888] [client 127.0.0.1:57224] PHP Notice:  Undefined variable: controller in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56
+[Sat Apr 28 22:54:24.832633 2018] [php7:notice] [pid 9184:tid 1888] [client 127.0.0.1:57224] PHP Notice:  Undefined variable: action in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56
+127.0.0.1 - - [28/Apr/2018:22:54:24 +0300] "GET /favicon.ico HTTP/1.1" 302 347
+127.0.0.1 - - [28/Apr/2018:22:54:24 +0300] "GET /auth/favicon.ico HTTP/1.1" 200 23
+127.0.0.1 - - [28/Apr/2018:22:54:24 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [28/Apr/2018:22:54:29 +0300] "GET /auth/logingh HTTP/1.1" 200 23
+[Sat Apr 28 22:54:29.935191 2018] [php7:notice] [pid 9184:tid 1896] [client 127.0.0.1:57226] PHP Notice:  Undefined variable: controller in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56, referer: http://art-corp.ru/auth/logingh
+[Sat Apr 28 22:54:29.935191 2018] [php7:notice] [pid 9184:tid 1896] [client 127.0.0.1:57226] PHP Notice:  Undefined variable: action in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56, referer: http://art-corp.ru/auth/logingh
+127.0.0.1 - - [28/Apr/2018:22:54:29 +0300] "GET /favicon.ico HTTP/1.1" 302 347
+127.0.0.1 - - [28/Apr/2018:22:54:29 +0300] "GET /404 HTTP/1.1" 200 226
+[Sat Apr 28 22:55:24.787559 2018] [php7:notice] [pid 9184:tid 1888] [client 127.0.0.1:57230] PHP Notice:  Undefined variable: controller in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56
+[Sat Apr 28 22:55:24.787559 2018] [php7:notice] [pid 9184:tid 1888] [client 127.0.0.1:57230] PHP Notice:  Undefined variable: action in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56
+127.0.0.1 - - [28/Apr/2018:22:55:24 +0300] "GET /favicon.ico HTTP/1.1" 302 347
+127.0.0.1 - - [28/Apr/2018:22:55:24 +0300] "GET /auth/favicon.ico HTTP/1.1" 200 23
+127.0.0.1 - - [28/Apr/2018:22:55:24 +0300] "GET /404 HTTP/1.1" 200 226
+[Sat Apr 28 22:56:24.799171 2018] [php7:notice] [pid 9184:tid 1896] [client 127.0.0.1:57248] PHP Notice:  Undefined variable: controller in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56
+[Sat Apr 28 22:56:24.799171 2018] [php7:notice] [pid 9184:tid 1896] [client 127.0.0.1:57248] PHP Notice:  Undefined variable: action in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56
+127.0.0.1 - - [28/Apr/2018:22:56:24 +0300] "GET /favicon.ico HTTP/1.1" 302 347
+127.0.0.1 - - [28/Apr/2018:22:56:24 +0300] "GET /auth/favicon.ico HTTP/1.1" 200 23
+127.0.0.1 - - [28/Apr/2018:22:56:24 +0300] "GET /404 HTTP/1.1" 200 226
+[Sat Apr 28 22:57:24.789374 2018] [php7:notice] [pid 9184:tid 1896] [client 127.0.0.1:57256] PHP Notice:  Undefined variable: controller in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56
+[Sat Apr 28 22:57:24.789374 2018] [php7:notice] [pid 9184:tid 1896] [client 127.0.0.1:57256] PHP Notice:  Undefined variable: action in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56
+127.0.0.1 - - [28/Apr/2018:22:57:24 +0300] "GET /favicon.ico HTTP/1.1" 302 347
+127.0.0.1 - - [28/Apr/2018:22:57:24 +0300] "GET /auth/favicon.ico HTTP/1.1" 200 23
+127.0.0.1 - - [28/Apr/2018:22:57:24 +0300] "GET /404 HTTP/1.1" 200 226
+[Sat Apr 28 22:58:24.798590 2018] [php7:notice] [pid 9184:tid 1888] [client 127.0.0.1:57261] PHP Notice:  Undefined variable: controller in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56
+[Sat Apr 28 22:58:24.798590 2018] [php7:notice] [pid 9184:tid 1888] [client 127.0.0.1:57261] PHP Notice:  Undefined variable: action in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56
+127.0.0.1 - - [28/Apr/2018:22:58:24 +0300] "GET /favicon.ico HTTP/1.1" 302 347
+127.0.0.1 - - [28/Apr/2018:22:58:24 +0300] "GET /auth/favicon.ico HTTP/1.1" 200 23
+127.0.0.1 - - [28/Apr/2018:22:58:24 +0300] "GET /404 HTTP/1.1" 200 226
+[Sat Apr 28 22:59:24.812059 2018] [php7:notice] [pid 9184:tid 1896] [client 127.0.0.1:57274] PHP Notice:  Undefined variable: controller in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56
+[Sat Apr 28 22:59:24.812059 2018] [php7:notice] [pid 9184:tid 1896] [client 127.0.0.1:57274] PHP Notice:  Undefined variable: action in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56
+127.0.0.1 - - [28/Apr/2018:22:59:24 +0300] "GET /favicon.ico HTTP/1.1" 302 347
+127.0.0.1 - - [28/Apr/2018:22:59:24 +0300] "GET /auth/favicon.ico HTTP/1.1" 200 23
+127.0.0.1 - - [28/Apr/2018:22:59:24 +0300] "GET /404 HTTP/1.1" 200 226
+[Sat Apr 28 23:00:24.849411 2018] [php7:notice] [pid 9184:tid 1896] [client 127.0.0.1:57278] PHP Notice:  Undefined variable: controller in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56
+[Sat Apr 28 23:00:24.849411 2018] [php7:notice] [pid 9184:tid 1896] [client 127.0.0.1:57278] PHP Notice:  Undefined variable: action in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56
+127.0.0.1 - - [28/Apr/2018:23:00:24 +0300] "GET /favicon.ico HTTP/1.1" 302 347
+127.0.0.1 - - [28/Apr/2018:23:00:24 +0300] "GET /auth/favicon.ico HTTP/1.1" 200 23
+127.0.0.1 - - [28/Apr/2018:23:00:24 +0300] "GET /404 HTTP/1.1" 200 226
+[Sat Apr 28 23:01:24.822664 2018] [php7:notice] [pid 9184:tid 1888] [client 127.0.0.1:57283] PHP Notice:  Undefined variable: controller in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56
+[Sat Apr 28 23:01:24.822664 2018] [php7:notice] [pid 9184:tid 1888] [client 127.0.0.1:57283] PHP Notice:  Undefined variable: action in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56
+127.0.0.1 - - [28/Apr/2018:23:01:24 +0300] "GET /favicon.ico HTTP/1.1" 302 347
+127.0.0.1 - - [28/Apr/2018:23:01:24 +0300] "GET /auth/favicon.ico HTTP/1.1" 200 23
+127.0.0.1 - - [28/Apr/2018:23:01:24 +0300] "GET /404 HTTP/1.1" 200 226
+[Sat Apr 28 23:02:24.869897 2018] [php7:notice] [pid 9184:tid 1896] [client 127.0.0.1:57286] PHP Notice:  Undefined variable: controller in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56
+[Sat Apr 28 23:02:24.869897 2018] [php7:notice] [pid 9184:tid 1896] [client 127.0.0.1:57286] PHP Notice:  Undefined variable: action in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56
+127.0.0.1 - - [28/Apr/2018:23:02:24 +0300] "GET /favicon.ico HTTP/1.1" 302 347
+127.0.0.1 - - [28/Apr/2018:23:02:24 +0300] "GET /auth/favicon.ico HTTP/1.1" 200 23
+127.0.0.1 - - [28/Apr/2018:23:02:24 +0300] "GET /404 HTTP/1.1" 200 226
+[Sat Apr 28 23:03:24.835797 2018] [php7:notice] [pid 9184:tid 1896] [client 127.0.0.1:57297] PHP Notice:  Undefined variable: controller in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56
+[Sat Apr 28 23:03:24.835797 2018] [php7:notice] [pid 9184:tid 1896] [client 127.0.0.1:57297] PHP Notice:  Undefined variable: action in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56
+127.0.0.1 - - [28/Apr/2018:23:03:24 +0300] "GET /favicon.ico HTTP/1.1" 302 347
+127.0.0.1 - - [28/Apr/2018:23:03:24 +0300] "GET /auth/favicon.ico HTTP/1.1" 200 23
+127.0.0.1 - - [28/Apr/2018:23:03:24 +0300] "GET /404 HTTP/1.1" 200 226
+[Sat Apr 28 23:04:24.838391 2018] [php7:notice] [pid 9184:tid 1896] [client 127.0.0.1:57301] PHP Notice:  Undefined variable: controller in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56
+[Sat Apr 28 23:04:24.838391 2018] [php7:notice] [pid 9184:tid 1896] [client 127.0.0.1:57301] PHP Notice:  Undefined variable: action in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56
+127.0.0.1 - - [28/Apr/2018:23:04:24 +0300] "GET /favicon.ico HTTP/1.1" 302 347
+127.0.0.1 - - [28/Apr/2018:23:04:24 +0300] "GET /auth/favicon.ico HTTP/1.1" 200 23
+127.0.0.1 - - [28/Apr/2018:23:04:24 +0300] "GET /404 HTTP/1.1" 200 226
+[Sat Apr 28 23:05:24.854544 2018] [php7:notice] [pid 9184:tid 1888] [client 127.0.0.1:57305] PHP Notice:  Undefined variable: controller in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56
+[Sat Apr 28 23:05:24.854544 2018] [php7:notice] [pid 9184:tid 1888] [client 127.0.0.1:57305] PHP Notice:  Undefined variable: action in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56
+127.0.0.1 - - [28/Apr/2018:23:05:24 +0300] "GET /favicon.ico HTTP/1.1" 302 347
+127.0.0.1 - - [28/Apr/2018:23:05:24 +0300] "GET /auth/favicon.ico HTTP/1.1" 200 23
+127.0.0.1 - - [28/Apr/2018:23:05:24 +0300] "GET /404 HTTP/1.1" 200 226
+[Sat Apr 28 23:06:24.858571 2018] [php7:notice] [pid 9184:tid 1888] [client 127.0.0.1:57323] PHP Notice:  Undefined variable: controller in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56
+[Sat Apr 28 23:06:24.858571 2018] [php7:notice] [pid 9184:tid 1888] [client 127.0.0.1:57323] PHP Notice:  Undefined variable: action in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56
+127.0.0.1 - - [28/Apr/2018:23:06:24 +0300] "GET /auth/favicon.ico HTTP/1.1" 200 23
+127.0.0.1 - - [28/Apr/2018:23:06:24 +0300] "GET /favicon.ico HTTP/1.1" 302 347
+127.0.0.1 - - [28/Apr/2018:23:06:24 +0300] "GET /404 HTTP/1.1" 200 226
+[Sat Apr 28 23:07:24.882737 2018] [php7:notice] [pid 9184:tid 1896] [client 127.0.0.1:57325] PHP Notice:  Undefined variable: controller in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56
+[Sat Apr 28 23:07:24.882737 2018] [php7:notice] [pid 9184:tid 1896] [client 127.0.0.1:57325] PHP Notice:  Undefined variable: action in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56
+127.0.0.1 - - [28/Apr/2018:23:07:24 +0300] "GET /favicon.ico HTTP/1.1" 302 347
+127.0.0.1 - - [28/Apr/2018:23:07:24 +0300] "GET /auth/favicon.ico HTTP/1.1" 200 23
+127.0.0.1 - - [28/Apr/2018:23:07:24 +0300] "GET /404 HTTP/1.1" 200 226
+[Sat Apr 28 23:07:24.892263 2018] [php7:notice] [pid 9184:tid 1896] [client 127.0.0.1:57325] PHP Notice:  Undefined variable: controller in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56
+[Sat Apr 28 23:07:24.892263 2018] [php7:notice] [pid 9184:tid 1896] [client 127.0.0.1:57325] PHP Notice:  Undefined variable: action in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56
+127.0.0.1 - - [28/Apr/2018:23:07:24 +0300] "GET /favicon.ico HTTP/1.1" 302 347
+127.0.0.1 - - [28/Apr/2018:23:07:24 +0300] "GET /404 HTTP/1.1" 200 226
+[Sat Apr 28 23:08:24.895721 2018] [php7:notice] [pid 9184:tid 1896] [client 127.0.0.1:57328] PHP Notice:  Undefined variable: controller in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56
+[Sat Apr 28 23:08:24.895721 2018] [php7:notice] [pid 9184:tid 1896] [client 127.0.0.1:57328] PHP Notice:  Undefined variable: action in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56
+127.0.0.1 - - [28/Apr/2018:23:08:24 +0300] "GET /favicon.ico HTTP/1.1" 302 347
+127.0.0.1 - - [28/Apr/2018:23:08:24 +0300] "GET /auth/favicon.ico HTTP/1.1" 200 23
+127.0.0.1 - - [28/Apr/2018:23:08:24 +0300] "GET /404 HTTP/1.1" 200 226
+[Sat Apr 28 23:09:24.869646 2018] [php7:notice] [pid 9184:tid 1896] [client 127.0.0.1:57330] PHP Notice:  Undefined variable: controller in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56
+[Sat Apr 28 23:09:24.869646 2018] [php7:notice] [pid 9184:tid 1896] [client 127.0.0.1:57330] PHP Notice:  Undefined variable: action in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56
+127.0.0.1 - - [28/Apr/2018:23:09:24 +0300] "GET /favicon.ico HTTP/1.1" 302 347
+127.0.0.1 - - [28/Apr/2018:23:09:24 +0300] "GET /auth/favicon.ico HTTP/1.1" 200 23
+127.0.0.1 - - [28/Apr/2018:23:09:24 +0300] "GET /404 HTTP/1.1" 200 226
+[Sat Apr 28 23:10:24.888804 2018] [php7:notice] [pid 9184:tid 1896] [client 127.0.0.1:57333] PHP Notice:  Undefined variable: controller in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56
+[Sat Apr 28 23:10:24.888804 2018] [php7:notice] [pid 9184:tid 1896] [client 127.0.0.1:57333] PHP Notice:  Undefined variable: action in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56
+127.0.0.1 - - [28/Apr/2018:23:10:24 +0300] "GET /favicon.ico HTTP/1.1" 302 347
+127.0.0.1 - - [28/Apr/2018:23:10:24 +0300] "GET /auth/favicon.ico HTTP/1.1" 200 23
+127.0.0.1 - - [28/Apr/2018:23:10:24 +0300] "GET /404 HTTP/1.1" 200 226
+[Sat Apr 28 23:11:24.915788 2018] [php7:notice] [pid 9184:tid 1888] [client 127.0.0.1:57335] PHP Notice:  Undefined variable: controller in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56
+[Sat Apr 28 23:11:24.915788 2018] [php7:notice] [pid 9184:tid 1888] [client 127.0.0.1:57335] PHP Notice:  Undefined variable: action in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56
+127.0.0.1 - - [28/Apr/2018:23:11:24 +0300] "GET /favicon.ico HTTP/1.1" 302 347
+127.0.0.1 - - [28/Apr/2018:23:11:24 +0300] "GET /auth/favicon.ico HTTP/1.1" 200 23
+127.0.0.1 - - [28/Apr/2018:23:11:24 +0300] "GET /404 HTTP/1.1" 200 226
+[Sat Apr 28 23:12:24.907260 2018] [php7:notice] [pid 9184:tid 1896] [client 127.0.0.1:57339] PHP Notice:  Undefined variable: controller in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56
+[Sat Apr 28 23:12:24.907260 2018] [php7:notice] [pid 9184:tid 1896] [client 127.0.0.1:57339] PHP Notice:  Undefined variable: action in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56
+127.0.0.1 - - [28/Apr/2018:23:12:24 +0300] "GET /favicon.ico HTTP/1.1" 302 347
+127.0.0.1 - - [28/Apr/2018:23:12:24 +0300] "GET /auth/favicon.ico HTTP/1.1" 200 23
+127.0.0.1 - - [28/Apr/2018:23:12:24 +0300] "GET /404 HTTP/1.1" 200 226
+[Sat Apr 28 23:13:24.930984 2018] [php7:notice] [pid 9184:tid 1888] [client 127.0.0.1:57344] PHP Notice:  Undefined variable: controller in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56
+[Sat Apr 28 23:13:24.930984 2018] [php7:notice] [pid 9184:tid 1888] [client 127.0.0.1:57344] PHP Notice:  Undefined variable: action in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56
+127.0.0.1 - - [28/Apr/2018:23:13:24 +0300] "GET /favicon.ico HTTP/1.1" 302 347
+127.0.0.1 - - [28/Apr/2018:23:13:24 +0300] "GET /auth/favicon.ico HTTP/1.1" 200 23
+127.0.0.1 - - [28/Apr/2018:23:13:24 +0300] "GET /404 HTTP/1.1" 200 226
+[Sat Apr 28 23:14:24.937266 2018] [php7:notice] [pid 9184:tid 1896] [client 127.0.0.1:57346] PHP Notice:  Undefined variable: controller in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56
+[Sat Apr 28 23:14:24.937266 2018] [php7:notice] [pid 9184:tid 1896] [client 127.0.0.1:57346] PHP Notice:  Undefined variable: action in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56
+127.0.0.1 - - [28/Apr/2018:23:14:24 +0300] "GET /favicon.ico HTTP/1.1" 302 347
+127.0.0.1 - - [28/Apr/2018:23:14:24 +0300] "GET /auth/favicon.ico HTTP/1.1" 200 23
+127.0.0.1 - - [28/Apr/2018:23:14:24 +0300] "GET /404 HTTP/1.1" 200 226
+[Sat Apr 28 23:15:24.933969 2018] [php7:notice] [pid 9184:tid 1896] [client 127.0.0.1:57352] PHP Notice:  Undefined variable: controller in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56
+[Sat Apr 28 23:15:24.933969 2018] [php7:notice] [pid 9184:tid 1896] [client 127.0.0.1:57352] PHP Notice:  Undefined variable: action in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56
+127.0.0.1 - - [28/Apr/2018:23:15:24 +0300] "GET /favicon.ico HTTP/1.1" 302 347
+127.0.0.1 - - [28/Apr/2018:23:15:24 +0300] "GET /auth/favicon.ico HTTP/1.1" 200 23
+127.0.0.1 - - [28/Apr/2018:23:15:24 +0300] "GET /404 HTTP/1.1" 200 226
+[Sat Apr 28 23:16:24.950588 2018] [php7:notice] [pid 9184:tid 1896] [client 127.0.0.1:57357] PHP Notice:  Undefined variable: controller in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56
+[Sat Apr 28 23:16:24.950588 2018] [php7:notice] [pid 9184:tid 1896] [client 127.0.0.1:57357] PHP Notice:  Undefined variable: action in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56
+127.0.0.1 - - [28/Apr/2018:23:16:24 +0300] "GET /favicon.ico HTTP/1.1" 302 347
+127.0.0.1 - - [28/Apr/2018:23:16:24 +0300] "GET /auth/favicon.ico HTTP/1.1" 200 23
+127.0.0.1 - - [28/Apr/2018:23:16:24 +0300] "GET /404 HTTP/1.1" 200 226
+[Sat Apr 28 23:17:24.958135 2018] [php7:notice] [pid 9184:tid 1888] [client 127.0.0.1:57359] PHP Notice:  Undefined variable: controller in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56
+[Sat Apr 28 23:17:24.958135 2018] [php7:notice] [pid 9184:tid 1888] [client 127.0.0.1:57359] PHP Notice:  Undefined variable: action in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56
+127.0.0.1 - - [28/Apr/2018:23:17:24 +0300] "GET /favicon.ico HTTP/1.1" 302 347
+127.0.0.1 - - [28/Apr/2018:23:17:24 +0300] "GET /auth/favicon.ico HTTP/1.1" 200 23
+127.0.0.1 - - [28/Apr/2018:23:17:24 +0300] "GET /404 HTTP/1.1" 200 226
+[Sat Apr 28 23:18:24.941692 2018] [php7:notice] [pid 9184:tid 1888] [client 127.0.0.1:57362] PHP Notice:  Undefined variable: controller in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56
+[Sat Apr 28 23:18:24.941692 2018] [php7:notice] [pid 9184:tid 1888] [client 127.0.0.1:57362] PHP Notice:  Undefined variable: action in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56
+127.0.0.1 - - [28/Apr/2018:23:18:24 +0300] "GET /favicon.ico HTTP/1.1" 302 347
+127.0.0.1 - - [28/Apr/2018:23:18:24 +0300] "GET /auth/favicon.ico HTTP/1.1" 200 23
+127.0.0.1 - - [28/Apr/2018:23:18:24 +0300] "GET /404 HTTP/1.1" 200 226
+[Sat Apr 28 23:19:24.972162 2018] [php7:notice] [pid 9184:tid 1896] [client 127.0.0.1:57365] PHP Notice:  Undefined variable: controller in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56
+[Sat Apr 28 23:19:24.972162 2018] [php7:notice] [pid 9184:tid 1896] [client 127.0.0.1:57365] PHP Notice:  Undefined variable: action in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56
+127.0.0.1 - - [28/Apr/2018:23:19:24 +0300] "GET /favicon.ico HTTP/1.1" 302 347
+127.0.0.1 - - [28/Apr/2018:23:19:24 +0300] "GET /auth/favicon.ico HTTP/1.1" 200 23
+127.0.0.1 - - [28/Apr/2018:23:19:24 +0300] "GET /404 HTTP/1.1" 200 226
+[Sat Apr 28 23:20:24.981010 2018] [php7:notice] [pid 9184:tid 1888] [client 127.0.0.1:57368] PHP Notice:  Undefined variable: controller in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56
+[Sat Apr 28 23:20:24.981010 2018] [php7:notice] [pid 9184:tid 1888] [client 127.0.0.1:57368] PHP Notice:  Undefined variable: action in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56
+127.0.0.1 - - [28/Apr/2018:23:20:24 +0300] "GET /favicon.ico HTTP/1.1" 302 347
+127.0.0.1 - - [28/Apr/2018:23:20:24 +0300] "GET /auth/favicon.ico HTTP/1.1" 200 23
+127.0.0.1 - - [28/Apr/2018:23:20:24 +0300] "GET /404 HTTP/1.1" 200 226
+[Sat Apr 28 23:21:24.956334 2018] [php7:notice] [pid 9184:tid 1888] [client 127.0.0.1:57371] PHP Notice:  Undefined variable: controller in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56
+[Sat Apr 28 23:21:24.956334 2018] [php7:notice] [pid 9184:tid 1888] [client 127.0.0.1:57371] PHP Notice:  Undefined variable: action in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 56
+127.0.0.1 - - [28/Apr/2018:23:21:24 +0300] "GET /favicon.ico HTTP/1.1" 302 347
+127.0.0.1 - - [28/Apr/2018:23:21:24 +0300] "GET /auth/favicon.ico HTTP/1.1" 200 23
+127.0.0.1 - - [28/Apr/2018:23:21:24 +0300] "GET /404 HTTP/1.1" 200 226
+[Sat Apr 28 23:22:25.011179 2018] [php7:error] [pid 9184:tid 1888] [client 127.0.0.1:57378] PHP Fatal error:  Uncaught Error: Class 'NotFound404Exception' not found in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php:58\nStack trace:\n#0 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\bootstrap.php(9): Route::start()\n#1 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\index.php(9): require_once('C:\\\\Server\\\\domai...')\n#2 {main}\n  thrown in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 58
+[Sat Apr 28 23:22:25.011179 2018] [php7:error] [pid 9184:tid 1896] [client 127.0.0.1:57377] PHP Fatal error:  Uncaught Error: Class 'NotFound404Exception' not found in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php:38\nStack trace:\n#0 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\bootstrap.php(9): Route::start()\n#1 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\index.php(9): require_once('C:\\\\Server\\\\domai...')\n#2 {main}\n  thrown in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 38
+127.0.0.1 - - [28/Apr/2018:23:22:24 +0300] "GET /favicon.ico HTTP/1.1" 200 507
+127.0.0.1 - - [28/Apr/2018:23:22:24 +0300] "GET /auth/favicon.ico HTTP/1.1" 200 507
+[Sat Apr 28 23:23:24.984291 2018] [php7:error] [pid 9184:tid 1888] [client 127.0.0.1:57379] PHP Fatal error:  Uncaught Error: Class 'NotFound404Exception' not found in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php:38\nStack trace:\n#0 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\bootstrap.php(9): Route::start()\n#1 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\index.php(9): require_once('C:\\\\Server\\\\domai...')\n#2 {main}\n  thrown in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 38
+127.0.0.1 - - [28/Apr/2018:23:23:24 +0300] "GET /favicon.ico HTTP/1.1" 200 507
+[Sat Apr 28 23:23:24.985294 2018] [php7:error] [pid 9184:tid 1896] [client 127.0.0.1:57380] PHP Fatal error:  Uncaught Error: Class 'NotFound404Exception' not found in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php:58\nStack trace:\n#0 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\bootstrap.php(9): Route::start()\n#1 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\index.php(9): require_once('C:\\\\Server\\\\domai...')\n#2 {main}\n  thrown in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 58
+127.0.0.1 - - [28/Apr/2018:23:23:24 +0300] "GET /auth/favicon.ico HTTP/1.1" 200 507
+[Sat Apr 28 23:24:24.983160 2018] [php7:error] [pid 9184:tid 1888] [client 127.0.0.1:57383] PHP Fatal error:  Uncaught Error: Class 'NotFound404Exception' not found in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php:38\nStack trace:\n#0 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\bootstrap.php(9): Route::start()\n#1 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\index.php(9): require_once('C:\\\\Server\\\\domai...')\n#2 {main}\n  thrown in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 38
+[Sat Apr 28 23:24:24.983160 2018] [php7:error] [pid 9184:tid 1896] [client 127.0.0.1:57384] PHP Fatal error:  Uncaught Error: Class 'NotFound404Exception' not found in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php:58\nStack trace:\n#0 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\bootstrap.php(9): Route::start()\n#1 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\index.php(9): require_once('C:\\\\Server\\\\domai...')\n#2 {main}\n  thrown in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 58
+127.0.0.1 - - [28/Apr/2018:23:24:24 +0300] "GET /favicon.ico HTTP/1.1" 200 507
+127.0.0.1 - - [28/Apr/2018:23:24:24 +0300] "GET /auth/favicon.ico HTTP/1.1" 200 507
+[Sat Apr 28 23:25:24.987706 2018] [php7:error] [pid 9184:tid 1888] [client 127.0.0.1:57385] PHP Fatal error:  Uncaught Error: Class 'NotFound404Exception' not found in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php:38\nStack trace:\n#0 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\bootstrap.php(9): Route::start()\n#1 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\index.php(9): require_once('C:\\\\Server\\\\domai...')\n#2 {main}\n  thrown in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 38
+127.0.0.1 - - [28/Apr/2018:23:25:24 +0300] "GET /favicon.ico HTTP/1.1" 200 507
+[Sat Apr 28 23:25:24.988207 2018] [php7:error] [pid 9184:tid 1896] [client 127.0.0.1:57386] PHP Fatal error:  Uncaught Error: Class 'NotFound404Exception' not found in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php:58\nStack trace:\n#0 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\bootstrap.php(9): Route::start()\n#1 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\index.php(9): require_once('C:\\\\Server\\\\domai...')\n#2 {main}\n  thrown in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 58
+127.0.0.1 - - [28/Apr/2018:23:25:24 +0300] "GET /auth/favicon.ico HTTP/1.1" 200 507
+[Sat Apr 28 23:26:25.009775 2018] [php7:error] [pid 9184:tid 1896] [client 127.0.0.1:57388] PHP Fatal error:  Uncaught Error: Class 'NotFound404Exception' not found in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php:39\nStack trace:\n#0 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\bootstrap.php(9): Route::start()\n#1 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\index.php(9): require_once('C:\\\\Server\\\\domai...')\n#2 {main}\n  thrown in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 39
+127.0.0.1 - - [28/Apr/2018:23:26:25 +0300] "GET /favicon.ico HTTP/1.1" 200 507
+[Sat Apr 28 23:26:25.010778 2018] [php7:error] [pid 9184:tid 1888] [client 127.0.0.1:57389] PHP Fatal error:  Uncaught Error: Class 'NotFound404Exception' not found in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php:59\nStack trace:\n#0 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\bootstrap.php(9): Route::start()\n#1 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\index.php(9): require_once('C:\\\\Server\\\\domai...')\n#2 {main}\n  thrown in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 59
+127.0.0.1 - - [28/Apr/2018:23:26:25 +0300] "GET /auth/favicon.ico HTTP/1.1" 200 507
+[Sat Apr 28 23:27:25.018654 2018] [php7:error] [pid 9184:tid 1896] [client 127.0.0.1:57390] PHP Fatal error:  Uncaught Error: Class 'NotFound404Exception' not found in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php:39\nStack trace:\n#0 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\bootstrap.php(9): Route::start()\n#1 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\index.php(9): require_once('C:\\\\Server\\\\domai...')\n#2 {main}\n  thrown in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 39
+127.0.0.1 - - [28/Apr/2018:23:27:25 +0300] "GET /favicon.ico HTTP/1.1" 200 507
+[Sat Apr 28 23:27:25.018654 2018] [php7:error] [pid 9184:tid 1888] [client 127.0.0.1:57391] PHP Fatal error:  Uncaught Error: Class 'NotFound404Exception' not found in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php:59\nStack trace:\n#0 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\bootstrap.php(9): Route::start()\n#1 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\index.php(9): require_once('C:\\\\Server\\\\domai...')\n#2 {main}\n  thrown in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 59
+127.0.0.1 - - [28/Apr/2018:23:27:25 +0300] "GET /auth/favicon.ico HTTP/1.1" 200 507
+[Sat Apr 28 23:28:25.029753 2018] [php7:crit] [pid 9184:tid 1896] [client 127.0.0.1:57393] PHP Parse error:  syntax error, unexpected '{', expecting '(' in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 46
+[Sat Apr 28 23:28:25.029753 2018] [php7:crit] [pid 9184:tid 1888] [client 127.0.0.1:57394] PHP Parse error:  syntax error, unexpected '{', expecting '(' in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 46
+127.0.0.1 - - [28/Apr/2018:23:28:25 +0300] "GET /favicon.ico HTTP/1.1" 200 182
+127.0.0.1 - - [28/Apr/2018:23:28:25 +0300] "GET /auth/favicon.ico HTTP/1.1" 200 182
+[Sat Apr 28 23:29:25.018261 2018] [php7:crit] [pid 9184:tid 1888] [client 127.0.0.1:57396] PHP Parse error:  syntax error, unexpected '{', expecting '(' in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 46
+[Sat Apr 28 23:29:25.018261 2018] [php7:crit] [pid 9184:tid 1896] [client 127.0.0.1:57395] PHP Parse error:  syntax error, unexpected '{', expecting '(' in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 46
+127.0.0.1 - - [28/Apr/2018:23:29:25 +0300] "GET /auth/favicon.ico HTTP/1.1" 200 182
+127.0.0.1 - - [28/Apr/2018:23:29:25 +0300] "GET /favicon.ico HTTP/1.1" 200 182
+[Sat Apr 28 23:30:25.036511 2018] [php7:crit] [pid 9184:tid 1888] [client 127.0.0.1:57399] PHP Parse error:  syntax error, unexpected '{', expecting '(' in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 53
+127.0.0.1 - - [28/Apr/2018:23:30:25 +0300] "GET /auth/favicon.ico HTTP/1.1" 200 182
+[Sat Apr 28 23:30:25.037517 2018] [php7:crit] [pid 9184:tid 1896] [client 127.0.0.1:57398] PHP Parse error:  syntax error, unexpected '{', expecting '(' in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 53
+127.0.0.1 - - [28/Apr/2018:23:30:25 +0300] "GET /favicon.ico HTTP/1.1" 200 182
+[Sat Apr 28 23:31:25.030320 2018] [php7:crit] [pid 9184:tid 1896] [client 127.0.0.1:57401] PHP Parse error:  syntax error, unexpected '{', expecting '(' in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 53
+[Sat Apr 28 23:31:25.030320 2018] [php7:crit] [pid 9184:tid 1888] [client 127.0.0.1:57402] PHP Parse error:  syntax error, unexpected '{', expecting '(' in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 53
+127.0.0.1 - - [28/Apr/2018:23:31:25 +0300] "GET /auth/favicon.ico HTTP/1.1" 200 182
+127.0.0.1 - - [28/Apr/2018:23:31:25 +0300] "GET /favicon.ico HTTP/1.1" 200 182
+[Sat Apr 28 23:32:25.046370 2018] [php7:crit] [pid 9184:tid 1888] [client 127.0.0.1:57404] PHP Parse error:  syntax error, unexpected '{', expecting '(' in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 53
+[Sat Apr 28 23:32:25.046370 2018] [php7:crit] [pid 9184:tid 1896] [client 127.0.0.1:57405] PHP Parse error:  syntax error, unexpected '{', expecting '(' in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 53
+127.0.0.1 - - [28/Apr/2018:23:32:25 +0300] "GET /favicon.ico HTTP/1.1" 200 182
+127.0.0.1 - - [28/Apr/2018:23:32:25 +0300] "GET /auth/favicon.ico HTTP/1.1" 200 182
+[Sat Apr 28 23:33:25.068155 2018] [php7:crit] [pid 9184:tid 1888] [client 127.0.0.1:57408] PHP Parse error:  syntax error, unexpected '{', expecting '(' in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 53
+[Sat Apr 28 23:33:25.068155 2018] [php7:crit] [pid 9184:tid 1896] [client 127.0.0.1:57407] PHP Parse error:  syntax error, unexpected '{', expecting '(' in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 53
+127.0.0.1 - - [28/Apr/2018:23:33:25 +0300] "GET /favicon.ico HTTP/1.1" 200 182
+127.0.0.1 - - [28/Apr/2018:23:33:25 +0300] "GET /auth/favicon.ico HTTP/1.1" 200 182
+[Sat Apr 28 23:34:25.079969 2018] [php7:crit] [pid 9184:tid 1888] [client 127.0.0.1:57410] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH), expecting function (T_FUNCTION) or const (T_CONST) in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 57
+[Sat Apr 28 23:34:25.079969 2018] [php7:crit] [pid 9184:tid 1896] [client 127.0.0.1:57409] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH), expecting function (T_FUNCTION) or const (T_CONST) in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 57
+127.0.0.1 - - [28/Apr/2018:23:34:25 +0300] "GET /favicon.ico HTTP/1.1" 200 233
+127.0.0.1 - - [28/Apr/2018:23:34:25 +0300] "GET /auth/favicon.ico HTTP/1.1" 200 233
+[Sat Apr 28 23:35:25.087454 2018] [php7:crit] [pid 9184:tid 1888] [client 127.0.0.1:57415] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH), expecting function (T_FUNCTION) or const (T_CONST) in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 57
+[Sat Apr 28 23:35:25.087454 2018] [php7:crit] [pid 9184:tid 1896] [client 127.0.0.1:57414] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH), expecting function (T_FUNCTION) or const (T_CONST) in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 57
+127.0.0.1 - - [28/Apr/2018:23:35:25 +0300] "GET /auth/favicon.ico HTTP/1.1" 200 233
+127.0.0.1 - - [28/Apr/2018:23:35:25 +0300] "GET /favicon.ico HTTP/1.1" 200 233
+[Sat Apr 28 23:36:25.097306 2018] [php7:crit] [pid 9184:tid 1888] [client 127.0.0.1:57418] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH), expecting function (T_FUNCTION) or const (T_CONST) in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 57
+[Sat Apr 28 23:36:25.097306 2018] [php7:crit] [pid 9184:tid 1896] [client 127.0.0.1:57419] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH), expecting function (T_FUNCTION) or const (T_CONST) in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 57
+127.0.0.1 - - [28/Apr/2018:23:36:25 +0300] "GET /auth/favicon.ico HTTP/1.1" 200 233
+127.0.0.1 - - [28/Apr/2018:23:36:25 +0300] "GET /favicon.ico HTTP/1.1" 200 233
+[Sat Apr 28 23:37:25.086223 2018] [php7:crit] [pid 9184:tid 1888] [client 127.0.0.1:57423] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH), expecting function (T_FUNCTION) or const (T_CONST) in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 57
+[Sat Apr 28 23:37:25.086223 2018] [php7:crit] [pid 9184:tid 1896] [client 127.0.0.1:57422] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH), expecting function (T_FUNCTION) or const (T_CONST) in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 57
+127.0.0.1 - - [28/Apr/2018:23:37:25 +0300] "GET /auth/favicon.ico HTTP/1.1" 200 233
+127.0.0.1 - - [28/Apr/2018:23:37:25 +0300] "GET /favicon.ico HTTP/1.1" 200 233
+[Sat Apr 28 23:38:25.113280 2018] [php7:crit] [pid 9184:tid 1896] [client 127.0.0.1:57425] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH), expecting function (T_FUNCTION) or const (T_CONST) in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 57
+[Sat Apr 28 23:38:25.113280 2018] [php7:crit] [pid 9184:tid 1888] [client 127.0.0.1:57424] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH), expecting function (T_FUNCTION) or const (T_CONST) in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 57
+127.0.0.1 - - [28/Apr/2018:23:38:25 +0300] "GET /favicon.ico HTTP/1.1" 200 233
+127.0.0.1 - - [28/Apr/2018:23:38:25 +0300] "GET /auth/favicon.ico HTTP/1.1" 200 233
+[Sat Apr 28 23:39:25.111500 2018] [php7:crit] [pid 9184:tid 1888] [client 127.0.0.1:57429] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH), expecting function (T_FUNCTION) or const (T_CONST) in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 58
+[Sat Apr 28 23:39:25.111500 2018] [php7:crit] [pid 9184:tid 1896] [client 127.0.0.1:57428] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH), expecting function (T_FUNCTION) or const (T_CONST) in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 58
+127.0.0.1 - - [28/Apr/2018:23:39:25 +0300] "GET /auth/favicon.ico HTTP/1.1" 200 233
+127.0.0.1 - - [28/Apr/2018:23:39:25 +0300] "GET /favicon.ico HTTP/1.1" 200 233
+[Sat Apr 28 23:40:25.113767 2018] [php7:crit] [pid 9184:tid 1888] [client 127.0.0.1:57431] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH), expecting function (T_FUNCTION) or const (T_CONST) in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 59
+[Sat Apr 28 23:40:25.113767 2018] [php7:crit] [pid 9184:tid 1896] [client 127.0.0.1:57432] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH), expecting function (T_FUNCTION) or const (T_CONST) in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 59
+127.0.0.1 - - [28/Apr/2018:23:40:25 +0300] "GET /auth/favicon.ico HTTP/1.1" 200 233
+127.0.0.1 - - [28/Apr/2018:23:40:25 +0300] "GET /favicon.ico HTTP/1.1" 200 233
+[Sat Apr 28 23:41:25.108869 2018] [php7:crit] [pid 9184:tid 1896] [client 127.0.0.1:57435] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH), expecting function (T_FUNCTION) or const (T_CONST) in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 59
+[Sat Apr 28 23:41:25.109371 2018] [php7:crit] [pid 9184:tid 1888] [client 127.0.0.1:57436] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH), expecting function (T_FUNCTION) or const (T_CONST) in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 59
+127.0.0.1 - - [28/Apr/2018:23:41:25 +0300] "GET /favicon.ico HTTP/1.1" 200 233
+127.0.0.1 - - [28/Apr/2018:23:41:25 +0300] "GET /auth/favicon.ico HTTP/1.1" 200 233
+[Sat Apr 28 23:42:25.126491 2018] [php7:crit] [pid 9184:tid 1896] [client 127.0.0.1:57440] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH), expecting function (T_FUNCTION) or const (T_CONST) in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 59
+[Sat Apr 28 23:42:25.126491 2018] [php7:crit] [pid 9184:tid 1888] [client 127.0.0.1:57441] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH), expecting function (T_FUNCTION) or const (T_CONST) in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 59
+127.0.0.1 - - [28/Apr/2018:23:42:25 +0300] "GET /auth/favicon.ico HTTP/1.1" 200 233
+127.0.0.1 - - [28/Apr/2018:23:42:25 +0300] "GET /favicon.ico HTTP/1.1" 200 233
+[Sat Apr 28 23:43:25.118486 2018] [php7:crit] [pid 9184:tid 1888] [client 127.0.0.1:57443] PHP Parse error:  syntax error, unexpected '$e' (T_VARIABLE), expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\\\ (T_NS_SEPARATOR) in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 60
+[Sat Apr 28 23:43:25.118486 2018] [php7:crit] [pid 9184:tid 1896] [client 127.0.0.1:57442] PHP Parse error:  syntax error, unexpected '$e' (T_VARIABLE), expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\\\ (T_NS_SEPARATOR) in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 60
+127.0.0.1 - - [28/Apr/2018:23:43:25 +0300] "GET /auth/favicon.ico HTTP/1.1" 200 264
+127.0.0.1 - - [28/Apr/2018:23:43:25 +0300] "GET /favicon.ico HTTP/1.1" 200 264
+[Sat Apr 28 23:44:25.126417 2018] [php7:crit] [pid 9184:tid 1896] [client 127.0.0.1:57446] PHP Parse error:  syntax error, unexpected '$e' (T_VARIABLE), expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\\\ (T_NS_SEPARATOR) in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 60
+[Sat Apr 28 23:44:25.126417 2018] [php7:crit] [pid 9184:tid 1888] [client 127.0.0.1:57447] PHP Parse error:  syntax error, unexpected '$e' (T_VARIABLE), expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\\\ (T_NS_SEPARATOR) in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 60
+127.0.0.1 - - [28/Apr/2018:23:44:25 +0300] "GET /auth/favicon.ico HTTP/1.1" 200 264
+127.0.0.1 - - [28/Apr/2018:23:44:25 +0300] "GET /favicon.ico HTTP/1.1" 200 264
+[Sat Apr 28 23:45:25.135357 2018] [php7:crit] [pid 9184:tid 1896] [client 127.0.0.1:57450] PHP Parse error:  syntax error, unexpected '$e' (T_VARIABLE), expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\\\ (T_NS_SEPARATOR) in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 60
+[Sat Apr 28 23:45:25.135357 2018] [php7:crit] [pid 9184:tid 1888] [client 127.0.0.1:57451] PHP Parse error:  syntax error, unexpected '$e' (T_VARIABLE), expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\\\ (T_NS_SEPARATOR) in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 60
+127.0.0.1 - - [28/Apr/2018:23:45:25 +0300] "GET /auth/favicon.ico HTTP/1.1" 200 264
+127.0.0.1 - - [28/Apr/2018:23:45:25 +0300] "GET /favicon.ico HTTP/1.1" 200 264
+[Sat Apr 28 23:46:25.119070 2018] [php7:error] [pid 9184:tid 1888] [client 127.0.0.1:57455] PHP Fatal error:  Cannot redeclare Controller::onControllerNotFoundException() in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\controller.php on line 40
+127.0.0.1 - - [28/Apr/2018:23:46:25 +0300] "GET /favicon.ico HTTP/1.1" 200 204
+[Sat Apr 28 23:46:25.137623 2018] [php7:error] [pid 9184:tid 1896] [client 127.0.0.1:57456] PHP Fatal error:  Cannot redeclare Controller::onControllerNotFoundException() in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\controller.php on line 40
+127.0.0.1 - - [28/Apr/2018:23:46:25 +0300] "GET /auth/favicon.ico HTTP/1.1" 200 204
+[Sat Apr 28 23:47:06.963599 2018] [php7:error] [pid 9184:tid 1896] [client 127.0.0.1:57462] PHP Fatal error:  Cannot redeclare Controller::onControllerNotFoundException() in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\controller.php on line 40
+127.0.0.1 - - [28/Apr/2018:23:47:06 +0300] "GET /auth/logingh HTTP/1.1" 200 204
+[Sat Apr 28 23:47:07.048626 2018] [php7:error] [pid 9184:tid 1896] [client 127.0.0.1:57462] PHP Fatal error:  Cannot redeclare Controller::onControllerNotFoundException() in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\controller.php on line 40, referer: http://art-corp.ru/auth/logingh
+127.0.0.1 - - [28/Apr/2018:23:47:07 +0300] "GET /favicon.ico HTTP/1.1" 200 204
+[Sat Apr 28 23:47:25.127777 2018] [php7:error] [pid 9184:tid 1896] [client 127.0.0.1:57467] PHP Fatal error:  Cannot redeclare Controller::onControllerNotFoundException() in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\controller.php on line 40
+127.0.0.1 - - [28/Apr/2018:23:47:25 +0300] "GET /auth/favicon.ico HTTP/1.1" 200 204
+[Sat Apr 28 23:47:25.128279 2018] [php7:error] [pid 9184:tid 1888] [client 127.0.0.1:57466] PHP Fatal error:  Cannot redeclare Controller::onControllerNotFoundException() in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\controller.php on line 40
+127.0.0.1 - - [28/Apr/2018:23:47:25 +0300] "GET /favicon.ico HTTP/1.1" 200 204
+[Sat Apr 28 23:48:05.498744 2018] [php7:crit] [pid 9184:tid 1896] [client 127.0.0.1:57468] PHP Parse error:  syntax error, unexpected '$e' (T_VARIABLE), expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\\\ (T_NS_SEPARATOR) in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 59
+127.0.0.1 - - [28/Apr/2018:23:48:05 +0300] "GET /auth/logingh HTTP/1.1" 200 264
+[Sat Apr 28 23:48:05.529332 2018] [php7:crit] [pid 9184:tid 1896] [client 127.0.0.1:57468] PHP Parse error:  syntax error, unexpected '$e' (T_VARIABLE), expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\\\ (T_NS_SEPARATOR) in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 59, referer: http://art-corp.ru/auth/logingh
+127.0.0.1 - - [28/Apr/2018:23:48:05 +0300] "GET /favicon.ico HTTP/1.1" 200 264
+[Sat Apr 28 23:48:25.128522 2018] [php7:crit] [pid 9184:tid 1896] [client 127.0.0.1:57472] PHP Parse error:  syntax error, unexpected '$e' (T_VARIABLE), expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\\\ (T_NS_SEPARATOR) in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 59
+[Sat Apr 28 23:48:25.128522 2018] [php7:crit] [pid 9184:tid 1888] [client 127.0.0.1:57471] PHP Parse error:  syntax error, unexpected '$e' (T_VARIABLE), expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\\\ (T_NS_SEPARATOR) in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 59
+127.0.0.1 - - [28/Apr/2018:23:48:25 +0300] "GET /auth/favicon.ico HTTP/1.1" 200 264
+127.0.0.1 - - [28/Apr/2018:23:48:25 +0300] "GET /favicon.ico HTTP/1.1" 200 264
+[Sat Apr 28 23:48:35.290441 2018] [php7:crit] [pid 9184:tid 1888] [client 127.0.0.1:57473] PHP Parse error:  syntax error, unexpected ''on'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 61
+127.0.0.1 - - [28/Apr/2018:23:48:35 +0300] "GET /auth/logingh HTTP/1.1" 200 271
+[Sat Apr 28 23:48:35.318011 2018] [php7:crit] [pid 9184:tid 1888] [client 127.0.0.1:57473] PHP Parse error:  syntax error, unexpected ''on'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 61, referer: http://art-corp.ru/auth/logingh
+127.0.0.1 - - [28/Apr/2018:23:48:35 +0300] "GET /favicon.ico HTTP/1.1" 200 271
+[Sat Apr 28 23:48:36.365046 2018] [php7:crit] [pid 9184:tid 1888] [client 127.0.0.1:57473] PHP Parse error:  syntax error, unexpected ''on'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 61
+127.0.0.1 - - [28/Apr/2018:23:48:36 +0300] "GET /auth/logingh HTTP/1.1" 200 271
+[Sat Apr 28 23:48:36.396629 2018] [php7:crit] [pid 9184:tid 1888] [client 127.0.0.1:57473] PHP Parse error:  syntax error, unexpected ''on'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 61, referer: http://art-corp.ru/auth/logingh
+127.0.0.1 - - [28/Apr/2018:23:48:36 +0300] "GET /favicon.ico HTTP/1.1" 200 271
+[Sat Apr 28 23:48:36.558898 2018] [php7:crit] [pid 9184:tid 1888] [client 127.0.0.1:57473] PHP Parse error:  syntax error, unexpected ''on'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 61
+127.0.0.1 - - [28/Apr/2018:23:48:36 +0300] "GET /auth/logingh HTTP/1.1" 200 271
+[Sat Apr 28 23:48:36.588075 2018] [php7:crit] [pid 9184:tid 1888] [client 127.0.0.1:57473] PHP Parse error:  syntax error, unexpected ''on'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 61, referer: http://art-corp.ru/auth/logingh
+127.0.0.1 - - [28/Apr/2018:23:48:36 +0300] "GET /favicon.ico HTTP/1.1" 200 271
+[Sat Apr 28 23:48:36.743316 2018] [php7:crit] [pid 9184:tid 1888] [client 127.0.0.1:57473] PHP Parse error:  syntax error, unexpected ''on'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 61
+127.0.0.1 - - [28/Apr/2018:23:48:36 +0300] "GET /auth/logingh HTTP/1.1" 200 271
+[Sat Apr 28 23:48:36.775605 2018] [php7:crit] [pid 9184:tid 1888] [client 127.0.0.1:57473] PHP Parse error:  syntax error, unexpected ''on'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 61, referer: http://art-corp.ru/auth/logingh
+127.0.0.1 - - [28/Apr/2018:23:48:36 +0300] "GET /favicon.ico HTTP/1.1" 200 271
+[Sat Apr 28 23:49:10.230228 2018] [php7:crit] [pid 9184:tid 1896] [client 127.0.0.1:57476] PHP Parse error:  syntax error, unexpected '"on"' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 61
+127.0.0.1 - - [28/Apr/2018:23:49:10 +0300] "GET /auth/logingh HTTP/1.1" 200 281
+[Sat Apr 28 23:49:10.260251 2018] [php7:crit] [pid 9184:tid 1896] [client 127.0.0.1:57476] PHP Parse error:  syntax error, unexpected '"on"' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 61, referer: http://art-corp.ru/auth/logingh
+127.0.0.1 - - [28/Apr/2018:23:49:10 +0300] "GET /favicon.ico HTTP/1.1" 200 281
+[Sat Apr 28 23:49:11.125897 2018] [php7:crit] [pid 9184:tid 1896] [client 127.0.0.1:57476] PHP Parse error:  syntax error, unexpected '"on"' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 61
+127.0.0.1 - - [28/Apr/2018:23:49:11 +0300] "GET /auth/logingh HTTP/1.1" 200 281
+[Sat Apr 28 23:49:11.154472 2018] [php7:crit] [pid 9184:tid 1896] [client 127.0.0.1:57476] PHP Parse error:  syntax error, unexpected '"on"' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 61, referer: http://art-corp.ru/auth/logingh
+127.0.0.1 - - [28/Apr/2018:23:49:11 +0300] "GET /favicon.ico HTTP/1.1" 200 281
+[Sat Apr 28 23:49:25.135297 2018] [php7:crit] [pid 9184:tid 1896] [client 127.0.0.1:57479] PHP Parse error:  syntax error, unexpected ''on'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 61
+[Sat Apr 28 23:49:25.135297 2018] [php7:crit] [pid 9184:tid 1888] [client 127.0.0.1:57478] PHP Parse error:  syntax error, unexpected ''on'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 61
+127.0.0.1 - - [28/Apr/2018:23:49:25 +0300] "GET /auth/favicon.ico HTTP/1.1" 200 271
+127.0.0.1 - - [28/Apr/2018:23:49:25 +0300] "GET /favicon.ico HTTP/1.1" 200 271
+127.0.0.1 - - [28/Apr/2018:23:49:59 +0300] "GET /auth/logingh HTTP/1.1" 200 26
+[Sat Apr 28 23:49:59.509336 2018] [php7:error] [pid 9184:tid 1896] [client 127.0.0.1:57480] PHP Fatal error:  Uncaught Error: Call to undefined method Controller::onPageNotFoundException() in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php:46\nStack trace:\n#0 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\bootstrap.php(9): Route::start()\n#1 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\index.php(9): require_once('C:\\\\Server\\\\domai...')\n#2 {main}\n  thrown in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 46, referer: http://art-corp.ru/auth/logingh
+127.0.0.1 - - [28/Apr/2018:23:49:59 +0300] "GET /favicon.ico HTTP/1.1" 302 531
+127.0.0.1 - - [28/Apr/2018:23:49:59 +0300] "GET /auth/login HTTP/1.1" 200 465
+[Sat Apr 28 23:50:25.149896 2018] [php7:error] [pid 9184:tid 1888] [client 127.0.0.1:57483] PHP Fatal error:  Uncaught Error: Call to undefined method Controller::onPageNotFoundException() in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php:46\nStack trace:\n#0 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\bootstrap.php(9): Route::start()\n#1 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\index.php(9): require_once('C:\\\\Server\\\\domai...')\n#2 {main}\n  thrown in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 46
+127.0.0.1 - - [28/Apr/2018:23:50:25 +0300] "GET /favicon.ico HTTP/1.1" 302 531
+127.0.0.1 - - [28/Apr/2018:23:50:25 +0300] "GET /auth/login HTTP/1.1" 200 465
+[Sat Apr 28 23:50:25.169024 2018] [php7:notice] [pid 9184:tid 1896] [client 127.0.0.1:57484] PHP Notice:  Undefined property: Controller_Auth::$on in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 62
+[Sat Apr 28 23:50:25.169024 2018] [php7:error] [pid 9184:tid 1896] [client 127.0.0.1:57484] PHP Fatal error:  Uncaught Error: Call to undefined function PageNotFoundException() in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php:62\nStack trace:\n#0 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\bootstrap.php(9): Route::start()\n#1 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\index.php(9): require_once('C:\\\\Server\\\\domai...')\n#2 {main}\n  thrown in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 62
+127.0.0.1 - - [28/Apr/2018:23:50:25 +0300] "GET /auth/favicon.ico HTTP/1.1" 200 693
+[Sat Apr 28 23:50:27.007073 2018] [php7:notice] [pid 9184:tid 1892] [client 127.0.0.1:57485] PHP Notice:  Undefined property: Controller_Auth::$on in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 62
+[Sat Apr 28 23:50:27.007073 2018] [php7:error] [pid 9184:tid 1892] [client 127.0.0.1:57485] PHP Fatal error:  Uncaught Error: Call to undefined function PageNotFoundException() in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php:62\nStack trace:\n#0 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\bootstrap.php(9): Route::start()\n#1 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\index.php(9): require_once('C:\\\\Server\\\\domai...')\n#2 {main}\n  thrown in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 62
+127.0.0.1 - - [28/Apr/2018:23:50:26 +0300] "GET /auth/logingh HTTP/1.1" 200 693
+[Sat Apr 28 23:50:27.036655 2018] [php7:error] [pid 9184:tid 1892] [client 127.0.0.1:57485] PHP Fatal error:  Uncaught Error: Call to undefined method Controller::onPageNotFoundException() in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php:46\nStack trace:\n#0 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\bootstrap.php(9): Route::start()\n#1 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\index.php(9): require_once('C:\\\\Server\\\\domai...')\n#2 {main}\n  thrown in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 46, referer: http://art-corp.ru/auth/logingh
+127.0.0.1 - - [28/Apr/2018:23:50:27 +0300] "GET /favicon.ico HTTP/1.1" 302 531
+127.0.0.1 - - [28/Apr/2018:23:50:27 +0300] "GET /auth/login HTTP/1.1" 200 465
+[Sat Apr 28 23:51:25.162450 2018] [php7:error] [pid 9184:tid 1892] [client 127.0.0.1:57488] PHP Fatal error:  Uncaught Error: Call to undefined method Controller_Auth::onPageNotFoundException() in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php:62\nStack trace:\n#0 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\bootstrap.php(9): Route::start()\n#1 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\index.php(9): require_once('C:\\\\Server\\\\domai...')\n#2 {main}\n  thrown in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 62
+127.0.0.1 - - [28/Apr/2018:23:51:25 +0300] "GET /auth/favicon.ico HTTP/1.1" 200 536
+[Sat Apr 28 23:51:25.163956 2018] [php7:error] [pid 9184:tid 1872] [client 127.0.0.1:57487] PHP Fatal error:  Uncaught Error: Call to undefined method Controller::onPageNotFoundException() in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php:46\nStack trace:\n#0 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\bootstrap.php(9): Route::start()\n#1 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\index.php(9): require_once('C:\\\\Server\\\\domai...')\n#2 {main}\n  thrown in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 46
+127.0.0.1 - - [28/Apr/2018:23:51:25 +0300] "GET /favicon.ico HTTP/1.1" 302 531
+127.0.0.1 - - [28/Apr/2018:23:51:25 +0300] "GET /auth/login HTTP/1.1" 200 465
+[Sat Apr 28 23:51:26.720542 2018] [php7:error] [pid 9184:tid 1896] [client 127.0.0.1:57489] PHP Fatal error:  Uncaught Error: Call to undefined method Controller_Auth::onPageNotFoundException() in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php:62\nStack trace:\n#0 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\bootstrap.php(9): Route::start()\n#1 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\index.php(9): require_once('C:\\\\Server\\\\domai...')\n#2 {main}\n  thrown in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 62
+127.0.0.1 - - [28/Apr/2018:23:51:26 +0300] "GET /auth/logingh HTTP/1.1" 200 536
+[Sat Apr 28 23:51:26.744078 2018] [php7:error] [pid 9184:tid 1896] [client 127.0.0.1:57489] PHP Fatal error:  Uncaught Error: Call to undefined method Controller::onPageNotFoundException() in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php:46\nStack trace:\n#0 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\bootstrap.php(9): Route::start()\n#1 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\index.php(9): require_once('C:\\\\Server\\\\domai...')\n#2 {main}\n  thrown in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 46, referer: http://art-corp.ru/auth/logingh
+127.0.0.1 - - [28/Apr/2018:23:51:26 +0300] "GET /favicon.ico HTTP/1.1" 302 531
+127.0.0.1 - - [28/Apr/2018:23:51:26 +0300] "GET /auth/login HTTP/1.1" 200 465
+[Sat Apr 28 23:52:10.991009 2018] [php7:notice] [pid 9184:tid 1888] [client 127.0.0.1:57492] PHP Notice:  Undefined property: Controller_Auth::$on in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 62
+[Sat Apr 28 23:52:10.991009 2018] [php7:error] [pid 9184:tid 1888] [client 127.0.0.1:57492] PHP Fatal error:  Uncaught Error: Call to undefined function PageNotFoundException() in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php:62\nStack trace:\n#0 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\bootstrap.php(9): Route::start()\n#1 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\index.php(9): require_once('C:\\\\Server\\\\domai...')\n#2 {main}\n  thrown in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 62
+127.0.0.1 - - [28/Apr/2018:23:52:10 +0300] "GET /auth/logingh HTTP/1.1" 200 693
+127.0.0.1 - - [28/Apr/2018:23:52:11 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [28/Apr/2018:23:52:11 +0300] "GET /404 HTTP/1.1" 200 226
+[Sat Apr 28 23:52:24.107002 2018] [php7:crit] [pid 9184:tid 1896] [client 127.0.0.1:57494] PHP Parse error:  syntax error, unexpected ''on'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 62
+127.0.0.1 - - [28/Apr/2018:23:52:24 +0300] "GET /auth/logingh HTTP/1.1" 200 271
+[Sat Apr 28 23:52:24.136076 2018] [php7:crit] [pid 9184:tid 1896] [client 127.0.0.1:57494] PHP Parse error:  syntax error, unexpected ''on'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 62, referer: http://art-corp.ru/auth/logingh
+127.0.0.1 - - [28/Apr/2018:23:52:24 +0300] "GET /favicon.ico HTTP/1.1" 200 271
+[Sat Apr 28 23:52:25.169650 2018] [php7:crit] [pid 9184:tid 1892] [client 127.0.0.1:57497] PHP Parse error:  syntax error, unexpected ''on'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 62
+[Sat Apr 28 23:52:25.169650 2018] [php7:crit] [pid 9184:tid 1872] [client 127.0.0.1:57496] PHP Parse error:  syntax error, unexpected ''on'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 62
+127.0.0.1 - - [28/Apr/2018:23:52:25 +0300] "GET /favicon.ico HTTP/1.1" 200 271
+127.0.0.1 - - [28/Apr/2018:23:52:25 +0300] "GET /auth/favicon.ico HTTP/1.1" 200 271
+[Sat Apr 28 23:52:31.094166 2018] [php7:crit] [pid 9184:tid 1888] [client 127.0.0.1:57495] PHP Parse error:  syntax error, unexpected ''on'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 62
+127.0.0.1 - - [28/Apr/2018:23:52:31 +0300] "GET /auth/logingh HTTP/1.1" 200 271
+[Sat Apr 28 23:52:31.128257 2018] [php7:crit] [pid 9184:tid 1888] [client 127.0.0.1:57495] PHP Parse error:  syntax error, unexpected ''on'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 62, referer: http://art-corp.ru/auth/logingh
+127.0.0.1 - - [28/Apr/2018:23:52:31 +0300] "GET /favicon.ico HTTP/1.1" 200 271
+[Sat Apr 28 23:52:51.559155 2018] [php7:crit] [pid 9184:tid 1872] [client 127.0.0.1:57499] PHP Parse error:  syntax error, unexpected '"on"' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 62
+127.0.0.1 - - [28/Apr/2018:23:52:51 +0300] "GET /auth/logingh HTTP/1.1" 200 281
+[Sat Apr 28 23:52:51.579182 2018] [php7:crit] [pid 9184:tid 1872] [client 127.0.0.1:57499] PHP Parse error:  syntax error, unexpected '"on"' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 62, referer: http://art-corp.ru/auth/logingh
+127.0.0.1 - - [28/Apr/2018:23:52:51 +0300] "GET /favicon.ico HTTP/1.1" 200 281
+[Sat Apr 28 23:52:58.691751 2018] [php7:crit] [pid 9184:tid 1888] [client 127.0.0.1:57500] PHP Parse error:  syntax error, unexpected '"on"' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 62
+127.0.0.1 - - [28/Apr/2018:23:52:58 +0300] "GET /auth/logingh HTTP/1.1" 200 281
+[Sat Apr 28 23:52:58.723835 2018] [php7:crit] [pid 9184:tid 1888] [client 127.0.0.1:57500] PHP Parse error:  syntax error, unexpected '"on"' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 62, referer: http://art-corp.ru/auth/logingh
+127.0.0.1 - - [28/Apr/2018:23:52:58 +0300] "GET /favicon.ico HTTP/1.1" 200 281
+[Sat Apr 28 23:52:59.464094 2018] [php7:crit] [pid 9184:tid 1888] [client 127.0.0.1:57500] PHP Parse error:  syntax error, unexpected '"on"' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 62
+127.0.0.1 - - [28/Apr/2018:23:52:59 +0300] "GET /auth/logingh HTTP/1.1" 200 281
+[Sat Apr 28 23:52:59.487186 2018] [php7:crit] [pid 9184:tid 1888] [client 127.0.0.1:57500] PHP Parse error:  syntax error, unexpected '"on"' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 62, referer: http://art-corp.ru/auth/logingh
+127.0.0.1 - - [28/Apr/2018:23:52:59 +0300] "GET /favicon.ico HTTP/1.1" 200 281
+[Sat Apr 28 23:53:25.176491 2018] [php7:crit] [pid 9184:tid 1872] [client 127.0.0.1:57502] PHP Parse error:  syntax error, unexpected '"on"' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 62
+[Sat Apr 28 23:53:25.176491 2018] [php7:crit] [pid 9184:tid 1888] [client 127.0.0.1:57503] PHP Parse error:  syntax error, unexpected '"on"' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php on line 62
+127.0.0.1 - - [28/Apr/2018:23:53:25 +0300] "GET /favicon.ico HTTP/1.1" 200 281
+127.0.0.1 - - [28/Apr/2018:23:53:25 +0300] "GET /auth/favicon.ico HTTP/1.1" 200 281
+127.0.0.1 - - [28/Apr/2018:23:53:50 +0300] "GET /auth/logingh HTTP/1.1" 302 3
+127.0.0.1 - - [28/Apr/2018:23:53:51 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [28/Apr/2018:23:53:51 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [28/Apr/2018:23:53:51 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [28/Apr/2018:23:53:51 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [28/Apr/2018:23:53:51 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [28/Apr/2018:23:54:25 +0300] "GET /auth/favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [28/Apr/2018:23:54:25 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [28/Apr/2018:23:54:25 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [28/Apr/2018:23:54:25 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [28/Apr/2018:23:55:25 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [28/Apr/2018:23:55:25 +0300] "GET /auth/favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [28/Apr/2018:23:55:25 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [28/Apr/2018:23:55:25 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [28/Apr/2018:23:56:25 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [28/Apr/2018:23:56:25 +0300] "GET /auth/favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [28/Apr/2018:23:56:25 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [28/Apr/2018:23:56:25 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [28/Apr/2018:23:57:25 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [28/Apr/2018:23:57:25 +0300] "GET /auth/favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [28/Apr/2018:23:57:25 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [28/Apr/2018:23:57:25 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [28/Apr/2018:23:58:25 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [28/Apr/2018:23:58:25 +0300] "GET /auth/favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [28/Apr/2018:23:58:25 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [28/Apr/2018:23:58:25 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [28/Apr/2018:23:59:25 +0300] "GET /auth/favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [28/Apr/2018:23:59:25 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [28/Apr/2018:23:59:25 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [28/Apr/2018:23:59:25 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [29/Apr/2018:00:00:25 +0300] "GET /auth/favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [29/Apr/2018:00:00:25 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [29/Apr/2018:00:00:25 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [29/Apr/2018:00:00:25 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [29/Apr/2018:00:01:25 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [29/Apr/2018:00:01:25 +0300] "GET /auth/favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [29/Apr/2018:00:01:25 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [29/Apr/2018:00:01:25 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [29/Apr/2018:00:02:25 +0300] "GET /auth/favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [29/Apr/2018:00:02:25 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [29/Apr/2018:00:02:25 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [29/Apr/2018:00:02:25 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [29/Apr/2018:00:03:25 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [29/Apr/2018:00:03:25 +0300] "GET /auth/favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [29/Apr/2018:00:03:25 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [29/Apr/2018:00:03:25 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [29/Apr/2018:00:04:25 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [29/Apr/2018:00:04:25 +0300] "GET /auth/favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [29/Apr/2018:00:04:25 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [29/Apr/2018:00:04:25 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [29/Apr/2018:00:05:25 +0300] "GET /auth/favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [29/Apr/2018:00:05:25 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [29/Apr/2018:00:05:25 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [29/Apr/2018:00:05:25 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [29/Apr/2018:00:06:25 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [29/Apr/2018:00:06:25 +0300] "GET /auth/favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [29/Apr/2018:00:06:25 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [29/Apr/2018:00:06:25 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [29/Apr/2018:00:07:25 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [29/Apr/2018:00:07:25 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [29/Apr/2018:00:07:25 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [29/Apr/2018:00:07:25 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [29/Apr/2018:00:08:25 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [29/Apr/2018:00:08:25 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [29/Apr/2018:00:09:25 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [29/Apr/2018:00:09:25 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [29/Apr/2018:00:10:25 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [29/Apr/2018:00:10:25 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [29/Apr/2018:00:11:25 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [29/Apr/2018:00:11:25 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [29/Apr/2018:00:12:25 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [29/Apr/2018:00:12:25 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [29/Apr/2018:00:13:25 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [29/Apr/2018:00:13:25 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [29/Apr/2018:00:14:25 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [29/Apr/2018:00:14:25 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [29/Apr/2018:00:15:25 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [29/Apr/2018:00:15:25 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [29/Apr/2018:00:16:25 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [29/Apr/2018:00:16:25 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [29/Apr/2018:00:17:25 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [29/Apr/2018:00:17:25 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [29/Apr/2018:00:18:25 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [29/Apr/2018:00:18:25 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [29/Apr/2018:00:19:25 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [29/Apr/2018:00:19:25 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [29/Apr/2018:00:20:25 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [29/Apr/2018:00:20:25 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [29/Apr/2018:00:21:25 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [29/Apr/2018:00:21:25 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [29/Apr/2018:00:22:25 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [29/Apr/2018:00:22:25 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [29/Apr/2018:00:23:25 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [29/Apr/2018:00:23:25 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [29/Apr/2018:00:24:25 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [29/Apr/2018:00:24:25 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [29/Apr/2018:00:25:25 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [29/Apr/2018:00:25:25 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [29/Apr/2018:00:26:25 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [29/Apr/2018:00:26:25 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [29/Apr/2018:00:27:25 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [29/Apr/2018:00:27:25 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [29/Apr/2018:00:28:25 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [29/Apr/2018:00:28:25 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [29/Apr/2018:00:29:25 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [29/Apr/2018:00:29:25 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [29/Apr/2018:00:30:25 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [29/Apr/2018:00:30:25 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [29/Apr/2018:00:31:25 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [29/Apr/2018:00:31:25 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [29/Apr/2018:00:32:25 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [29/Apr/2018:00:32:25 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [29/Apr/2018:00:33:25 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [29/Apr/2018:00:33:25 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [29/Apr/2018:00:34:25 +0300] "GET /favicon.ico HTTP/1.1" 302 3
+127.0.0.1 - - [29/Apr/2018:00:34:25 +0300] "GET /404 HTTP/1.1" 200 226
+127.0.0.1 - - [29/Apr/2018:00:35:22 +0300] "GET /404 HTTP/1.1" 200 226
+[Sun Apr 29 00:35:22.309230 2018] [php7:error] [pid 9184:tid 1892] [client 127.0.0.1:57899] PHP Fatal error:  Uncaught Error: Class 'userNotAuthorized' not found in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\controller.php:13\nStack trace:\n#0 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php(45): Controller->__construct()\n#1 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\bootstrap.php(9): Route::start()\n#2 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\index.php(9): require_once('C:\\\\Server\\\\domai...')\n#3 {main}\n  thrown in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\controller.php on line 13, referer: http://art-corp.ru/404
+127.0.0.1 - - [29/Apr/2018:00:35:22 +0300] "GET /favicon.ico HTTP/1.1" 200 627
+[Sun Apr 29 00:35:24.595033 2018] [php7:error] [pid 9184:tid 1888] [client 127.0.0.1:57905] PHP Fatal error:  Uncaught Error: Class 'userNotAuthorized' not found in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\controller.php:13\nStack trace:\n#0 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php(45): Controller->__construct()\n#1 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\bootstrap.php(9): Route::start()\n#2 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\index.php(9): require_once('C:\\\\Server\\\\domai...')\n#3 {main}\n  thrown in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\controller.php on line 13
+127.0.0.1 - - [29/Apr/2018:00:35:24 +0300] "GET /favicon.ico HTTP/1.1" 200 627
+[Sun Apr 29 00:35:24.646669 2018] [php7:error] [pid 9184:tid 1888] [client 127.0.0.1:57905] PHP Fatal error:  Uncaught Error: Class 'userNotAuthorized' not found in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\controller.php:13\nStack trace:\n#0 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php(45): Controller->__construct()\n#1 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\bootstrap.php(9): Route::start()\n#2 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\index.php(9): require_once('C:\\\\Server\\\\domai...')\n#3 {main}\n  thrown in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\controller.php on line 13
+127.0.0.1 - - [29/Apr/2018:00:35:24 +0300] "GET /favicon.ico HTTP/1.1" 200 627
+[Sun Apr 29 00:35:24.712847 2018] [php7:error] [pid 9184:tid 1888] [client 127.0.0.1:57905] PHP Fatal error:  Uncaught Error: Class 'userNotAuthorized' not found in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\controller.php:13\nStack trace:\n#0 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php(45): Controller->__construct()\n#1 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\bootstrap.php(9): Route::start()\n#2 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\index.php(9): require_once('C:\\\\Server\\\\domai...')\n#3 {main}\n  thrown in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\controller.php on line 13
+127.0.0.1 - - [29/Apr/2018:00:35:24 +0300] "GET /favicon.ico HTTP/1.1" 200 627
+[Sun Apr 29 00:35:24.876393 2018] [php7:error] [pid 9184:tid 1888] [client 127.0.0.1:57905] PHP Fatal error:  Uncaught Error: Class 'userNotAuthorized' not found in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\controller.php:13\nStack trace:\n#0 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php(45): Controller->__construct()\n#1 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\bootstrap.php(9): Route::start()\n#2 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\index.php(9): require_once('C:\\\\Server\\\\domai...')\n#3 {main}\n  thrown in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\controller.php on line 13
+127.0.0.1 - - [29/Apr/2018:00:35:24 +0300] "GET /favicon.ico HTTP/1.1" 200 627
+[Sun Apr 29 00:35:24.938707 2018] [php7:error] [pid 9184:tid 1888] [client 127.0.0.1:57905] PHP Fatal error:  Uncaught Error: Class 'userNotAuthorized' not found in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\controller.php:13\nStack trace:\n#0 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php(45): Controller->__construct()\n#1 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\bootstrap.php(9): Route::start()\n#2 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\index.php(9): require_once('C:\\\\Server\\\\domai...')\n#3 {main}\n  thrown in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\controller.php on line 13
+127.0.0.1 - - [29/Apr/2018:00:35:24 +0300] "GET /favicon.ico HTTP/1.1" 200 627
+[Sun Apr 29 00:35:25.105011 2018] [php7:error] [pid 9184:tid 1892] [client 127.0.0.1:57899] PHP Fatal error:  Uncaught Error: Class 'userNotAuthorized' not found in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\controller.php:13\nStack trace:\n#0 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php(41): Controller->__construct()\n#1 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\bootstrap.php(9): Route::start()\n#2 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\index.php(9): require_once('C:\\\\Server\\\\domai...')\n#3 {main}\n  thrown in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\controller.php on line 13
+127.0.0.1 - - [29/Apr/2018:00:35:25 +0300] "GET / HTTP/1.1" 200 627
+[Sun Apr 29 00:35:25.176219 2018] [php7:error] [pid 9184:tid 1888] [client 127.0.0.1:57905] PHP Fatal error:  Uncaught Error: Class 'userNotAuthorized' not found in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\controller.php:13\nStack trace:\n#0 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php(45): Controller->__construct()\n#1 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\bootstrap.php(9): Route::start()\n#2 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\index.php(9): require_once('C:\\\\Server\\\\domai...')\n#3 {main}\n  thrown in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\controller.php on line 13
+127.0.0.1 - - [29/Apr/2018:00:35:25 +0300] "GET /favicon.ico HTTP/1.1" 200 627
+[Sun Apr 29 00:35:25.236863 2018] [php7:error] [pid 9184:tid 1892] [client 127.0.0.1:57899] PHP Fatal error:  Uncaught Error: Class 'userNotAuthorized' not found in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\controller.php:13\nStack trace:\n#0 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php(45): Controller->__construct()\n#1 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\bootstrap.php(9): Route::start()\n#2 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\index.php(9): require_once('C:\\\\Server\\\\domai...')\n#3 {main}\n  thrown in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\controller.php on line 13, referer: http://art-corp.ru/
+127.0.0.1 - - [29/Apr/2018:00:35:25 +0300] "GET /favicon.ico HTTP/1.1" 200 627
+[Sun Apr 29 00:35:25.451762 2018] [php7:error] [pid 9184:tid 1888] [client 127.0.0.1:57905] PHP Fatal error:  Uncaught Error: Class 'userNotAuthorized' not found in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\controller.php:13\nStack trace:\n#0 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php(45): Controller->__construct()\n#1 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\bootstrap.php(9): Route::start()\n#2 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\index.php(9): require_once('C:\\\\Server\\\\domai...')\n#3 {main}\n  thrown in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\controller.php on line 13
+127.0.0.1 - - [29/Apr/2018:00:35:25 +0300] "GET /favicon.ico HTTP/1.1" 200 627
+[Sun Apr 29 00:36:25.497239 2018] [php7:error] [pid 9184:tid 1872] [client 127.0.0.1:57911] PHP Fatal error:  Uncaught Error: Class 'userNotAuthorized' not found in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\controller.php:13\nStack trace:\n#0 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php(45): Controller->__construct()\n#1 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\bootstrap.php(9): Route::start()\n#2 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\index.php(9): require_once('C:\\\\Server\\\\domai...')\n#3 {main}\n  thrown in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\controller.php on line 13
+127.0.0.1 - - [29/Apr/2018:00:36:25 +0300] "GET /favicon.ico HTTP/1.1" 200 627
+[Sun Apr 29 00:37:25.502063 2018] [php7:error] [pid 9184:tid 1872] [client 127.0.0.1:57915] PHP Fatal error:  Uncaught Error: Class 'userNotAuthorized' not found in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\controller.php:13\nStack trace:\n#0 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php(45): Controller->__construct()\n#1 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\bootstrap.php(9): Route::start()\n#2 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\index.php(9): require_once('C:\\\\Server\\\\domai...')\n#3 {main}\n  thrown in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\controller.php on line 13
+127.0.0.1 - - [29/Apr/2018:00:37:25 +0300] "GET /favicon.ico HTTP/1.1" 200 627
+[Sun Apr 29 00:38:25.541245 2018] [php7:error] [pid 9184:tid 1872] [client 127.0.0.1:57918] PHP Fatal error:  Uncaught Error: Class 'userNotAuthorized' not found in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\controller.php:13\nStack trace:\n#0 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php(45): Controller->__construct()\n#1 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\bootstrap.php(9): Route::start()\n#2 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\index.php(9): require_once('C:\\\\Server\\\\domai...')\n#3 {main}\n  thrown in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\controller.php on line 13
+127.0.0.1 - - [29/Apr/2018:00:38:25 +0300] "GET /favicon.ico HTTP/1.1" 200 627
+[Sun Apr 29 00:39:25.519530 2018] [php7:error] [pid 9184:tid 1872] [client 127.0.0.1:57921] PHP Fatal error:  Uncaught Error: Class 'userNotAuthorized' not found in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\controller.php:13\nStack trace:\n#0 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php(45): Controller->__construct()\n#1 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\bootstrap.php(9): Route::start()\n#2 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\index.php(9): require_once('C:\\\\Server\\\\domai...')\n#3 {main}\n  thrown in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\controller.php on line 13
+127.0.0.1 - - [29/Apr/2018:00:39:25 +0300] "GET /favicon.ico HTTP/1.1" 200 627
+[Sun Apr 29 00:40:25.533280 2018] [php7:error] [pid 9184:tid 1872] [client 127.0.0.1:57925] PHP Fatal error:  Uncaught Error: Class 'UserNotAuthorized' not found in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\controller.php:11\nStack trace:\n#0 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php(45): Controller->__construct()\n#1 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\bootstrap.php(9): Route::start()\n#2 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\index.php(9): require_once('C:\\\\Server\\\\domai...')\n#3 {main}\n  thrown in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\controller.php on line 11
+127.0.0.1 - - [29/Apr/2018:00:40:25 +0300] "GET /favicon.ico HTTP/1.1" 200 627
+[Sun Apr 29 00:41:25.528104 2018] [php7:error] [pid 9184:tid 1872] [client 127.0.0.1:57929] PHP Fatal error:  Uncaught Error: Class 'UserNotAuthorized' not found in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\controller.php:11\nStack trace:\n#0 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php(45): Controller->__construct()\n#1 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\bootstrap.php(9): Route::start()\n#2 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\index.php(9): require_once('C:\\\\Server\\\\domai...')\n#3 {main}\n  thrown in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\controller.php on line 11
+127.0.0.1 - - [29/Apr/2018:00:41:25 +0300] "GET /favicon.ico HTTP/1.1" 200 627
+[Sun Apr 29 00:42:25.545080 2018] [php7:error] [pid 9184:tid 1872] [client 127.0.0.1:57936] PHP Fatal error:  Uncaught Error: Class 'UserNotAuthorized' not found in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\controller.php:11\nStack trace:\n#0 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php(45): Controller->__construct()\n#1 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\bootstrap.php(9): Route::start()\n#2 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\index.php(9): require_once('C:\\\\Server\\\\domai...')\n#3 {main}\n  thrown in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\controller.php on line 11
+127.0.0.1 - - [29/Apr/2018:00:42:25 +0300] "GET /favicon.ico HTTP/1.1" 200 627
+[Sun Apr 29 00:43:25.549613 2018] [php7:error] [pid 9184:tid 1872] [client 127.0.0.1:57940] PHP Fatal error:  Uncaught UserNotAuthorized: \xd0\xbf\xd0\xbe\xd0\xbb\xd1\x8c\xd0\xb7\xd0\xbe\xd0\xb2\xd0\xb0\xd1\x82\xd0\xb5\xd0\xbb\xd1\x8c \xd0\xbd\xd0\xb5 \xd0\xb0\xd0\xb2\xd1\x82\xd0\xbe\xd1\x80\xd0\xb8\xd0\xb7\xd0\xb8\xd1\x80\xd0\xbe\xd0\xb2\xd0\xb0\xd0\xbd in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\controller.php:11\nStack trace:\n#0 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php(45): Controller->__construct()\n#1 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\bootstrap.php(9): Route::start()\n#2 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\index.php(9): require_once('C:\\\\Server\\\\domai...')\n#3 {main}\n  thrown in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\controller.php on line 11
+127.0.0.1 - - [29/Apr/2018:00:43:25 +0300] "GET /favicon.ico HTTP/1.1" 200 660
+[Sun Apr 29 00:44:25.585857 2018] [php7:error] [pid 9184:tid 1872] [client 127.0.0.1:57944] PHP Fatal error:  Uncaught UserNotAuthorized: \xd0\xbf\xd0\xbe\xd0\xbb\xd1\x8c\xd0\xb7\xd0\xbe\xd0\xb2\xd0\xb0\xd1\x82\xd0\xb5\xd0\xbb\xd1\x8c \xd0\xbd\xd0\xb5 \xd0\xb0\xd0\xb2\xd1\x82\xd0\xbe\xd1\x80\xd0\xb8\xd0\xb7\xd0\xb8\xd1\x80\xd0\xbe\xd0\xb2\xd0\xb0\xd0\xbd in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\controller.php:11\nStack trace:\n#0 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php(45): Controller->__construct()\n#1 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\bootstrap.php(9): Route::start()\n#2 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\index.php(9): require_once('C:\\\\Server\\\\domai...')\n#3 {main}\n  thrown in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\controller.php on line 11
+127.0.0.1 - - [29/Apr/2018:00:44:25 +0300] "GET /favicon.ico HTTP/1.1" 200 660
+[Sun Apr 29 00:45:25.546217 2018] [php7:error] [pid 9184:tid 1872] [client 127.0.0.1:57949] PHP Fatal error:  Uncaught UserNotAuthorized: \xd0\xbf\xd0\xbe\xd0\xbb\xd1\x8c\xd0\xb7\xd0\xbe\xd0\xb2\xd0\xb0\xd1\x82\xd0\xb5\xd0\xbb\xd1\x8c \xd0\xbd\xd0\xb5 \xd0\xb0\xd0\xb2\xd1\x82\xd0\xbe\xd1\x80\xd0\xb8\xd0\xb7\xd0\xb8\xd1\x80\xd0\xbe\xd0\xb2\xd0\xb0\xd0\xbd in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\controller.php:11\nStack trace:\n#0 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php(45): Controller->__construct()\n#1 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\bootstrap.php(9): Route::start()\n#2 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\index.php(9): require_once('C:\\\\Server\\\\domai...')\n#3 {main}\n  thrown in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\controller.php on line 11
+127.0.0.1 - - [29/Apr/2018:00:45:25 +0300] "GET /favicon.ico HTTP/1.1" 200 660
+[Sun Apr 29 00:46:25.529068 2018] [php7:error] [pid 9184:tid 1872] [client 127.0.0.1:57953] PHP Fatal error:  Uncaught UserNotAuthorized: \xd0\xbf\xd0\xbe\xd0\xbb\xd1\x8c\xd0\xb7\xd0\xbe\xd0\xb2\xd0\xb0\xd1\x82\xd0\xb5\xd0\xbb\xd1\x8c \xd0\xbd\xd0\xb5 \xd0\xb0\xd0\xb2\xd1\x82\xd0\xbe\xd1\x80\xd0\xb8\xd0\xb7\xd0\xb8\xd1\x80\xd0\xbe\xd0\xb2\xd0\xb0\xd0\xbd in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\controller.php:11\nStack trace:\n#0 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php(45): Controller->__construct()\n#1 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\bootstrap.php(9): Route::start()\n#2 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\index.php(9): require_once('C:\\\\Server\\\\domai...')\n#3 {main}\n  thrown in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\controller.php on line 11
+127.0.0.1 - - [29/Apr/2018:00:46:25 +0300] "GET /favicon.ico HTTP/1.1" 200 660
+[Sun Apr 29 00:46:40.408301 2018] [php7:error] [pid 9184:tid 1872] [client 127.0.0.1:57954] PHP Fatal error:  Uncaught UserNotAuthorized: \xd0\xbf\xd0\xbe\xd0\xbb\xd1\x8c\xd0\xb7\xd0\xbe\xd0\xb2\xd0\xb0\xd1\x82\xd0\xb5\xd0\xbb\xd1\x8c \xd0\xbd\xd0\xb5 \xd0\xb0\xd0\xb2\xd1\x82\xd0\xbe\xd1\x80\xd0\xb8\xd0\xb7\xd0\xb8\xd1\x80\xd0\xbe\xd0\xb2\xd0\xb0\xd0\xbd in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\controller.php:11\nStack trace:\n#0 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php(41): Controller->__construct()\n#1 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\bootstrap.php(9): Route::start()\n#2 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\index.php(9): require_once('C:\\\\Server\\\\domai...')\n#3 {main}\n  thrown in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\controller.php on line 11
+127.0.0.1 - - [29/Apr/2018:00:46:40 +0300] "GET / HTTP/1.1" 200 660
+[Sun Apr 29 00:46:40.463904 2018] [php7:error] [pid 9184:tid 1872] [client 127.0.0.1:57954] PHP Fatal error:  Uncaught UserNotAuthorized: \xd0\xbf\xd0\xbe\xd0\xbb\xd1\x8c\xd0\xb7\xd0\xbe\xd0\xb2\xd0\xb0\xd1\x82\xd0\xb5\xd0\xbb\xd1\x8c \xd0\xbd\xd0\xb5 \xd0\xb0\xd0\xb2\xd1\x82\xd0\xbe\xd1\x80\xd0\xb8\xd0\xb7\xd0\xb8\xd1\x80\xd0\xbe\xd0\xb2\xd0\xb0\xd0\xbd in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\controller.php:11\nStack trace:\n#0 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php(45): Controller->__construct()\n#1 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\bootstrap.php(9): Route::start()\n#2 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\index.php(9): require_once('C:\\\\Server\\\\domai...')\n#3 {main}\n  thrown in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\controller.php on line 11, referer: http://art-corp.ru/
+127.0.0.1 - - [29/Apr/2018:00:46:40 +0300] "GET /favicon.ico HTTP/1.1" 200 660
+[Sun Apr 29 00:46:45.815015 2018] [php7:error] [pid 9184:tid 1888] [client 127.0.0.1:57955] PHP Fatal error:  Uncaught UserNotAuthorized: \xd0\xbf\xd0\xbe\xd0\xbb\xd1\x8c\xd0\xb7\xd0\xbe\xd0\xb2\xd0\xb0\xd1\x82\xd0\xb5\xd0\xbb\xd1\x8c \xd0\xbd\xd0\xb5 \xd0\xb0\xd0\xb2\xd1\x82\xd0\xbe\xd1\x80\xd0\xb8\xd0\xb7\xd0\xb8\xd1\x80\xd0\xbe\xd0\xb2\xd0\xb0\xd0\xbd in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\controller.php:11\nStack trace:\n#0 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php(41): Controller->__construct()\n#1 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\bootstrap.php(9): Route::start()\n#2 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\index.php(9): require_once('C:\\\\Server\\\\domai...')\n#3 {main}\n  thrown in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\controller.php on line 11
+127.0.0.1 - - [29/Apr/2018:00:46:45 +0300] "GET / HTTP/1.1" 200 660
+[Sun Apr 29 00:46:45.846101 2018] [php7:error] [pid 9184:tid 1888] [client 127.0.0.1:57955] PHP Fatal error:  Uncaught UserNotAuthorized: \xd0\xbf\xd0\xbe\xd0\xbb\xd1\x8c\xd0\xb7\xd0\xbe\xd0\xb2\xd0\xb0\xd1\x82\xd0\xb5\xd0\xbb\xd1\x8c \xd0\xbd\xd0\xb5 \xd0\xb0\xd0\xb2\xd1\x82\xd0\xbe\xd1\x80\xd0\xb8\xd0\xb7\xd0\xb8\xd1\x80\xd0\xbe\xd0\xb2\xd0\xb0\xd0\xbd in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\controller.php:11\nStack trace:\n#0 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php(45): Controller->__construct()\n#1 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\bootstrap.php(9): Route::start()\n#2 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\index.php(9): require_once('C:\\\\Server\\\\domai...')\n#3 {main}\n  thrown in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\controller.php on line 11, referer: http://art-corp.ru/
+127.0.0.1 - - [29/Apr/2018:00:46:45 +0300] "GET /favicon.ico HTTP/1.1" 200 660
+[Sun Apr 29 00:47:25.584740 2018] [php7:error] [pid 9184:tid 1872] [client 127.0.0.1:57962] PHP Fatal error:  Uncaught UserNotAuthorized: \xd0\xbf\xd0\xbe\xd0\xbb\xd1\x8c\xd0\xb7\xd0\xbe\xd0\xb2\xd0\xb0\xd1\x82\xd0\xb5\xd0\xbb\xd1\x8c \xd0\xbd\xd0\xb5 \xd0\xb0\xd0\xb2\xd1\x82\xd0\xbe\xd1\x80\xd0\xb8\xd0\xb7\xd0\xb8\xd1\x80\xd0\xbe\xd0\xb2\xd0\xb0\xd0\xbd in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\controller.php:11\nStack trace:\n#0 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php(45): Controller->__construct()\n#1 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\bootstrap.php(9): Route::start()\n#2 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\index.php(9): require_once('C:\\\\Server\\\\domai...')\n#3 {main}\n  thrown in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\controller.php on line 11
+127.0.0.1 - - [29/Apr/2018:00:47:25 +0300] "GET /favicon.ico HTTP/1.1" 200 660
+[Sun Apr 29 00:48:25.927523 2018] [php7:error] [pid 9184:tid 1872] [client 127.0.0.1:57969] PHP Fatal error:  Uncaught UserNotAuthorizedException: \xd0\xbf\xd0\xbe\xd0\xbb\xd1\x8c\xd0\xb7\xd0\xbe\xd0\xb2\xd0\xb0\xd1\x82\xd0\xb5\xd0\xbb\xd1\x8c \xd0\xbd\xd0\xb5 \xd0\xb0\xd0\xb2\xd1\x82\xd0\xbe\xd1\x80\xd0\xb8\xd0\xb7\xd0\xb8\xd1\x80\xd0\xbe\xd0\xb2\xd0\xb0\xd0\xbd in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\controller.php:11\nStack trace:\n#0 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php(45): Controller->__construct()\n#1 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\bootstrap.php(9): Route::start()\n#2 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\index.php(9): require_once('C:\\\\Server\\\\domai...')\n#3 {main}\n  thrown in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\controller.php on line 11
+127.0.0.1 - - [29/Apr/2018:00:48:25 +0300] "GET /favicon.ico HTTP/1.1" 200 669
+[Sun Apr 29 00:48:27.072279 2018] [php7:error] [pid 9184:tid 1888] [client 127.0.0.1:57970] PHP Fatal error:  Uncaught UserNotAuthorizedException: \xd0\xbf\xd0\xbe\xd0\xbb\xd1\x8c\xd0\xb7\xd0\xbe\xd0\xb2\xd0\xb0\xd1\x82\xd0\xb5\xd0\xbb\xd1\x8c \xd0\xbd\xd0\xb5 \xd0\xb0\xd0\xb2\xd1\x82\xd0\xbe\xd1\x80\xd0\xb8\xd0\xb7\xd0\xb8\xd1\x80\xd0\xbe\xd0\xb2\xd0\xb0\xd0\xbd in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\controller.php:11\nStack trace:\n#0 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php(41): Controller->__construct()\n#1 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\bootstrap.php(9): Route::start()\n#2 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\index.php(9): require_once('C:\\\\Server\\\\domai...')\n#3 {main}\n  thrown in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\controller.php on line 11
+127.0.0.1 - - [29/Apr/2018:00:48:27 +0300] "GET / HTTP/1.1" 200 669
+[Sun Apr 29 00:48:27.093836 2018] [php7:error] [pid 9184:tid 1888] [client 127.0.0.1:57970] PHP Fatal error:  Uncaught UserNotAuthorizedException: \xd0\xbf\xd0\xbe\xd0\xbb\xd1\x8c\xd0\xb7\xd0\xbe\xd0\xb2\xd0\xb0\xd1\x82\xd0\xb5\xd0\xbb\xd1\x8c \xd0\xbd\xd0\xb5 \xd0\xb0\xd0\xb2\xd1\x82\xd0\xbe\xd1\x80\xd0\xb8\xd0\xb7\xd0\xb8\xd1\x80\xd0\xbe\xd0\xb2\xd0\xb0\xd0\xbd in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\controller.php:11\nStack trace:\n#0 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php(45): Controller->__construct()\n#1 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\bootstrap.php(9): Route::start()\n#2 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\index.php(9): require_once('C:\\\\Server\\\\domai...')\n#3 {main}\n  thrown in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\controller.php on line 11, referer: http://art-corp.ru/
+127.0.0.1 - - [29/Apr/2018:00:48:27 +0300] "GET /favicon.ico HTTP/1.1" 200 669
+[Sun Apr 29 00:49:25.579300 2018] [php7:error] [pid 9184:tid 1892] [client 127.0.0.1:57981] PHP Fatal error:  Uncaught UserNotAuthorizedException: \xd0\xbf\xd0\xbe\xd0\xbb\xd1\x8c\xd0\xb7\xd0\xbe\xd0\xb2\xd0\xb0\xd1\x82\xd0\xb5\xd0\xbb\xd1\x8c \xd0\xbd\xd0\xb5 \xd0\xb0\xd0\xb2\xd1\x82\xd0\xbe\xd1\x80\xd0\xb8\xd0\xb7\xd0\xb8\xd1\x80\xd0\xbe\xd0\xb2\xd0\xb0\xd0\xbd in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\controller.php:11\nStack trace:\n#0 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php(45): Controller->__construct()\n#1 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\bootstrap.php(9): Route::start()\n#2 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\index.php(9): require_once('C:\\\\Server\\\\domai...')\n#3 {main}\n  thrown in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\controller.php on line 11
+127.0.0.1 - - [29/Apr/2018:00:49:25 +0300] "GET /favicon.ico HTTP/1.1" 200 669
+[Sun Apr 29 00:50:25.602922 2018] [php7:error] [pid 9184:tid 1892] [client 127.0.0.1:57983] PHP Fatal error:  Uncaught UserNotAuthorizedException: \xd0\xbf\xd0\xbe\xd0\xbb\xd1\x8c\xd0\xb7\xd0\xbe\xd0\xb2\xd0\xb0\xd1\x82\xd0\xb5\xd0\xbb\xd1\x8c \xd0\xbd\xd0\xb5 \xd0\xb0\xd0\xb2\xd1\x82\xd0\xbe\xd1\x80\xd0\xb8\xd0\xb7\xd0\xb8\xd1\x80\xd0\xbe\xd0\xb2\xd0\xb0\xd0\xbd in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\controller.php:11\nStack trace:\n#0 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\route.php(45): Controller->__construct()\n#1 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\bootstrap.php(9): Route::start()\n#2 C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\index.php(9): require_once('C:\\\\Server\\\\domai...')\n#3 {main}\n  thrown in C:\\Server\\domains\\htdocs\\art-corp.ru\\public_html\\application\\core\\controller.php on line 11
+127.0.0.1 - - [29/Apr/2018:00:50:25 +0300] "GET /favicon.ico HTTP/1.1" 200 669

@@ -8,29 +8,22 @@ class Controller_Auth extends Controller
 	
 	function action_index()
 	{
-		if(User::isAuthorized())
-			$this->redirectMainPage();
+		if(!User::isAuthorized())
+			throw new UserNotAuthorizedException("пользователь не авторизирован");
 		$this->view->generate('login.php', 'template_view.php');
 	}
 	
 	function action_login()
 	{
-		if(User::isAuthorized())
-			$this->redirectMainPage();
+		if(!User::isAuthorized())
+			throw new UserNotAuthorizedException("пользователь не авторизирован");
 		$this->view->generate('login.php', 'template_view.php');
 	}
 	
 	function action_enter()
 	{
-		try
-		{
-			$auth = new VKauthorization($_REQUEST, APP_ID, SECRET_KEY);
-			$this->redirectMainPage();
-		}
-		catch(attemptToSubstituteData $e)
-		{
-			$e->redirect();
-		}
+		$auth = new VKauthorization($_REQUEST, APP_ID, SECRET_KEY);
+		$this->redirectMainPage();
 		$this->view->generate('login.php', 'enter_valid.php');
 	}
 	
@@ -38,11 +31,11 @@ class Controller_Auth extends Controller
 	{
 		VKauthorization::exit();
 		$this->redirectMainPage();
-	}	
-	
-	private function redirectMainPage()
+	}
+
+	public function onAttemptToSubstituteData($e)
 	{
-		$host = 'http://'.$_SERVER['HTTP_HOST'].'/';
+		$host = 'http://'.$_SERVER['HTTP_HOST'].'/auth/login';
 		header('Location:'.$host);
 	}
 }

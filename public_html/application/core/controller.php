@@ -7,18 +7,10 @@ class Controller
 	
 	function __construct()
 	{
-		try
-		{
-			if(!User::isAuthorized())
-				throw new userNotAuthorized("пользователь не авторизирован");
-			$this->user = new User();
-			$this->view = new View();
-		}
-		catch(userNotAuthorized $e)
-		{
-			$e->redirect();
-			//echo $e->getMessage();
-		}		
+		if(!User::isAuthorized())
+			throw new UserNotAuthorizedException("пользователь не авторизирован");
+		$this->user = new User();
+		$this->view = new View();
 	}
 	
 	function onPageNotFoundException($e)
@@ -27,7 +19,19 @@ class Controller
 		header("Status: 404 Not Found");
 		$host = 'http://'.$_SERVER['HTTP_HOST'].'/404';
 		header('Location:'.$host);
-	}	
+	}
+
+	private function redirectMainPage()
+	{
+		$host = 'http://'.$_SERVER['HTTP_HOST'].'/';
+		header('Location:'.$host);
+	}
+
+	function onUserNotAuthorized($e)
+	{
+		$host = 'http://'.$_SERVER['HTTP_HOST'].'/';
+		header('Location:'.$host);
+	}
 	
 	function action_index()
 	{

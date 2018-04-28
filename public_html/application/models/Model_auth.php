@@ -12,7 +12,7 @@ class VKauthorization
 	public  function __construct($vkData, $appId, $secretKey)
 	{
 		if(!$this->isRealVK($vkData, $appId, $secretKey))
-			throw new attemptToSubstituteData("подмена данных");
+			throw new AttemptToSubstituteDataException("подмена данных");
 		$this->VKuid = $vkData['uid'];
 		$this->setSession();
 	}
