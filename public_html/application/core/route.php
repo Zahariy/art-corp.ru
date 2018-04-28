@@ -3,7 +3,7 @@ class Route
 {
 	static function start()
 	{
-		$controller_name = 'main';
+		$controller_name = 'Main';
 		$action_name = 'index';
 		
 		$path = parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH);
@@ -43,7 +43,7 @@ class Route
 		catch(PageNotFoundException $e)
 		{
 			$controller = new Controller();
-			$controller->onPageNotFoundException($e);			
+			$controller->onPageNotFoundException($e);
 		}
 
 		$action = $action_name;

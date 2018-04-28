@@ -33,7 +33,7 @@ class Controller_Auth extends Controller
 		$this->redirectMainPage();
 	}
 
-	public function onAttemptToSubstituteData($e)
+	public function onAttemptToSubstituteDataException($e)
 	{
 		$host = 'http://'.$_SERVER['HTTP_HOST'].'/auth/login';
 		header('Location:'.$host);
