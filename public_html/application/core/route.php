@@ -32,31 +32,35 @@ class Route
 
 		$controller_file = strtolower($controller_name).'.php';
 		$controller_path = "application/controllers/".$controller_file;
+		
 		try
 		{
 			if(!file_exists($controller_path))
-				throw new NotFound404Exception("нет файла контроллера");
+				throw new PageNotFoundException("нет файла контроллера");
 			include "application/controllers/".$controller_file;
-			
-			$controller = new $controller_name();			
-			$action = $action_name;
+			$controller = new $controller_name();
+		}
+		catch(PageNotFoundException $e)
+		{
+			$controller = new Controller();
+			$controller->onPageNotFoundException($e);			
+		}
+
+		$action = $action_name;
 		
+		try
+		{
 			if(!method_exists($controller, $action))
 			{
-				throw new NotFound404Exception("нет файла метода");
+				throw new PageNotFoundException("нет экшена в классе контроллере");
 			}
 			$controller->$action();
 		}
-		catch (NotFound404Exception $e)
+		catch(Exception $e)
 		{
-			//echo $e->getMessage();
-			$e->redirect();
-		}
-		catch (UserNotAuthorized $e)
-		{
-			//echo $e->getMessage();
-			$e->redirect();
-		}
+			$onException = 'on'.get_class($e);
+			$controller->$onException($e);
+		}		
 	}
 }
 
