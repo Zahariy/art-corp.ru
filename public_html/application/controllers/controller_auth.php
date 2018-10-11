@@ -1,41 +1,43 @@
 <?php
 class Controller_Auth extends Controller
 {
+	protected $controller_name = "auth";
+	protected $action_default = "index";
+	protected $template_view_default = "not_auth";
+	
 	function __construct()
 	{
-		$this->view = new View();
+		$this->model = Model::getModel($this->controller_name);
+		
+		if(User::isAuthorized())
+			$this->redirect();
+		$this->view = new View($this->template_view_default);
 	}
 	
 	function action_index()
 	{
-		if(User::isAuthorized())
-			$this->redirectMainPage();
-		$this->view->generate('login.php', 'template_view.php');
-	}
-	
-	function action_login()
-	{
-		if(!User::isAuthorized())
-			throw new UserNotAuthorizedException("пользователь не авторизирован");
-		$this->view->generate('login.php', 'template_view.php');
+		$this->view->setContentView('login');
 	}
 	
 	function action_enter()
 	{
+		//извлекать эти параметры из реестра
+		define("APP_ID", 6451950);
+		define("SECRET_KEY", "NEasfgCvxrSfDkHfVlER");
+	
 		$auth = new VKauthorization($_REQUEST, APP_ID, SECRET_KEY);
-		$this->redirectMainPage();
-		$this->view->generate('login.php', 'enter_valid.php');
+		$this->redirect();
 	}
 	
 	public function action_exit()
 	{
 		VKauthorization::exit();
-		$this->redirectMainPage();
+		$this->redirect_auth();
 	}
 
 	public function onAttemptToSubstituteDataException($e)
 	{
-		$host = 'http://'.$_SERVER['HTTP_HOST'].'/auth/login';
+		$host = 'http://'.$_SERVER['HTTP_HOST'].'/auth/';
 		header('Location:'.$host);
 	}
 }

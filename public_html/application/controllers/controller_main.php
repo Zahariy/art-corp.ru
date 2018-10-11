@@ -1,18 +1,24 @@
 <?php
 class Controller_Main extends Controller
 {
+	protected $controller_name = "main";
+	protected $action_default = "index";
+	protected $template_view_default = "main";
+	protected $user;
+	
 	public function __construct()
 	{
-		
-		if(!User::isAuthorized())
-			throw new UserNotAuthorizedException("пользователь не авторизирован");
-		$this->user = new User();
-		$this->view = new View();
+		$this->model = Model::getModel($this->controller_name);
+ 		if(!User::isAuthorized())
+			$this->redirect('auth/');
+		$uid = USER::getUidBySession();
+		$this->user = new User($uid);
+		$this->view = new View($this->template_view_default);
 	}
 
-	function action_index()
+	public function action_index()
 	{	
-		$this->view->generate('main.php', 'template_view.php');
+		$this->view->setContentView('main');
 	}
 }
 ?>
