@@ -7,7 +7,7 @@ class PageNotFoundException extends Exception
 	}
 }
 
-class ControllerCalssNotExistsException extends Exception
+class ControllerClassNotExistsException extends Exception
 {
 	public function __construct($data)
 	{

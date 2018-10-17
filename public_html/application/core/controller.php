@@ -5,18 +5,14 @@ abstract class Controller
 	protected $action;
 	protected $action_name_prefix = "action_";
 	
-	//экземпляр класса View
-	protected $view;
-	
+	protected $view;	
 	protected $model;
 	
-	//по умолчанию устанавливается action, переданный в адресной строке
-	//в данном методе мы его можем изменить, например, в зависимости от того, авторизирован пользователь, или нет
 	public function execute()
 	{
 		$action = $this->action;
 		$this->$action();
-	}	
+	}
 	
 	public function setDefaultAction($action)
 	{
@@ -55,4 +51,3 @@ abstract class Controller
 	}
 }
 ?>
-

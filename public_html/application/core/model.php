@@ -1,5 +1,5 @@
 <?php
-class Model
+abstract class Model
 {
 	protected static $models_folder = "application/models/";
 	protected static $models_file_prefix = "Model_";

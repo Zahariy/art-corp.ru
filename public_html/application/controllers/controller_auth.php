@@ -24,7 +24,7 @@ class Controller_Auth extends Controller
 		//извлекать эти параметры из реестра
 		define("APP_ID", 6451950);
 		define("SECRET_KEY", "NEasfgCvxrSfDkHfVlER");
-	
+
 		$auth = new VKauthorization($_REQUEST, APP_ID, SECRET_KEY);
 		$this->redirect();
 	}
